@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dữ liệu upload/export không đưa lên GitHub
+uploads/*
+exports/*
+!uploads/.gitkeep
+!exports/.gitkeep
+
+# data/inventory.json LÀ nguồn dữ liệu chính → ĐƯỢC commit lên GitHub
+# Chỉ bỏ qua các file dữ liệu phụ trợ
+data/client-inventory.json
+data/intranet-server.pid
+data/python-path.txt
+client-info/
+
+*.log
+*.tmp
+*.lnk
+
+# Script tạm thời
+schema_extract.py

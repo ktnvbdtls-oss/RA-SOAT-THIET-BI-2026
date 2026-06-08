@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: vnpost-device-inventory
+    runtime: python
+    rootDir: device-inventory-web
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -B server.py
+    envVars:
+      - key: DEVICE_INVENTORY_HOST
+        value: 0.0.0.0
+      - key: DEVICE_INVENTORY_DATA_ROOT
+        value: /var/data
+      - key: DEVICE_INVENTORY_ADMIN_PASSWORD
+        sync: false
+    disk:
+      name: vnpost-device-inventory-data
+      mountPath: /var/data
+      sizeGB: 1

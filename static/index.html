@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bưu điện tỉnh Hà Tĩnh – Rà soát thiết bị CNTT</title>
+    <meta name="description" content="Công cụ rà soát thiết bị CNTT – Bưu điện tỉnh Hà Tĩnh. Nhập phiếu khảo sát máy tính, máy in, thiết bị mạng và các thiết bị CNTT khác." />
+    <link rel="stylesheet" href="styles.css" />
+    <!-- SheetJS để đọc/ghi Excel phía trình duyệt -->
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <img src="vnpost-logo.png" alt="Vietnam Post" class="brand-logo" />
+        <div>
+          <p class="eyebrow">BƯU ĐIỆN TỈNH HÀ TĨNH</p>
+          <h1>Rà soát thiết bị công nghệ thông tin</h1>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button id="btn-admin-login" class="ghost">Đăng nhập quản trị</button>
+        <button id="btn-admin-logout" class="ghost is-hidden">Đăng xuất</button>
+        <button id="btn-export-json" class="ghost admin-only is-hidden">Xuất JSON</button>
+        <button id="btn-export-excel" class="primary admin-only is-hidden">Xuất Excel mẫu</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="rail">
+        <section>
+          <h2></h2>
+          <dl class="facts">
+            <div><dt>Hạn gửi</dt><dd>15/06/2026</dd></div>
+            <div><dt>Không thống kê</dt><dd>Server, NAS, SAN chuyên dụng</dd></div>
+            <div><dt>Yêu cầu chính</dt><dd>CCDC, người quản lý, cấu hình, phần mềm, IP/MAC, giám sát, tình trạng</dd></div>
+          </dl>
+        </section>
+        <section class="admin-only is-hidden">
+          <h2>Nhập từ Excel đã điền</h2>
+          <label class="drop" for="excel-file">
+            <span id="file-name">Chọn file .xlsx</span>
+            <small>Đọc các sheet đúng biểu mẫu rà soát</small>
+          </label>
+          <input id="excel-file" type="file" accept=".xlsx" hidden />
+          <button id="btn-import" class="primary block" disabled>Nhập vào kho</button>
+          <p id="import-status" class="status"></p>
+        </section>
+        <section class="admin-only is-hidden">
+          <h2>Lọc nhanh</h2>
+          <input id="search" class="input" placeholder="Tìm bưu cục, serial, hostname..." />
+          <select id="category-filter" class="input"></select>
+          <button id="btn-reset" class="danger block">Xóa dữ liệu đang lưu</button>
+        </section>
+        <section class="access-note">
+          <h2>Quyền truy cập</h2>
+          <p>Người khảo sát chỉ nhập và gửi phiếu. Chức năng xem kho, sửa, xóa và xuất dữ liệu dành cho quản trị viên.</p>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <form id="record-form" class="form-panel">
+          <div class="form-head">
+            <div>
+              <h2>Phiếu thiết bị</h2>
+              <p id="form-hint">Nhập một phiếu cho mỗi cá nhân hoặc thiết bị cần khảo sát.</p>
+            </div>
+            <button type="button" id="btn-local-info" class="ghost">Làm mới thông tin máy</button>
+          </div>
+          <div class="form-row">
+            <label>
+              <span>Nhóm thiết bị</span>
+              <select id="category" class="input" required></select>
+            </label>
+          </div>
+          <div id="dynamic-fields" class="fields"></div>
+          <section id="attachment-section" class="attachment-section is-hidden">
+            <div class="attachment-heading">
+              <h2>Thiết bị đang dùng kèm máy tính</h2>
+              <p>Tích chọn để khai báo ngay tại phiếu này, không cần chuyển sang nhóm thiết bị khác.</p>
+            </div>
+            <div id="attachment-options" class="attachment-options"></div>
+          </section>
+          <p id="form-status" class="status form-status"></p>
+          <div class="form-actions">
+            <button type="button" id="btn-new" class="ghost">Tạo phiếu mới</button>
+            <button type="submit" class="primary">Gửi phiếu</button>
+          </div>
+        </form>
+
+        <section id="admin-dashboard" class="admin-only is-hidden admin-dashboard">
+          <section class="kpis" id="kpis"></section>
+          <section class="list-panel">
+            <div class="section-head">
+              <h2>Dữ liệu đã ghi nhận</h2>
+              <span id="record-count">0 bản ghi</span>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Nhóm</th>
+                    <th>Bưu cục/Bộ phận</th>
+                    <th>Tài sản</th>
+                    <th>Định danh</th>
+                    <th>Tình trạng</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody id="record-body"></tbody>
+              </table>
+            </div>
+          </section>
+          <section class="analysis">
+            <div>
+              <h2>Thống kê theo nhóm</h2>
+              <div id="category-bars" class="bars"></div>
+            </div>
+            <div>
+              <h2>Đơn vị có nhiều thiết bị</h2>
+              <div id="unit-bars" class="bars"></div>
+            </div>
+            <div>
+              <h2>Tình trạng thiết bị</h2>
+              <div id="status-bars" class="bars"></div>
+            </div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <!-- Dialog đăng nhập quản trị bằng GitHub Personal Access Token -->
+    <dialog id="admin-dialog" class="admin-dialog">
+      <form id="admin-login-form" method="dialog">
+        <div class="dialog-head">
+          <h2>Đăng nhập quản trị</h2>
+          <button type="button" id="btn-close-dialog" class="icon-button" aria-label="Đóng">×</button>
+        </div>
+        <label>
+          <span>GitHub Personal Access Token</span>
+          <input id="admin-password" class="input" type="password"
+                 placeholder="github_pat_..." autocomplete="current-password" required />
+        </label>
+        <small style="color:var(--text-muted,#888);display:block;margin-top:4px">
+          Tạo tại GitHub → Settings → Developer settings → Fine-grained tokens.<br>
+          Cấp quyền <strong>Contents: Read &amp; Write</strong> cho repo Check_thiet_bi.
+        </small>
+        <label style="display:flex;align-items:center;gap:8px;margin-top:12px;cursor:pointer">
+          <input type="checkbox" id="chk-save-write-token" checked />
+          <span style="font-size:0.9em">Lưu token trên máy này để nhân viên có thể gửi phiếu</span>
+        </label>
+        <p id="admin-login-status" class="status"></p>
+        <button type="submit" class="primary block">Đăng nhập</button>
+      </form>
+    </dialog>
+
+    <script src="github-config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
