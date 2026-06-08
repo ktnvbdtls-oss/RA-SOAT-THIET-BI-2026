@@ -5,11 +5,12 @@ const GITHUB_API = "https://api.github.com";
 
 // ─── Schema thiết bị (hardcoded từ biểu mẫu Ra_Soat_Thiet_Bi_CNTT.xlsx) ─────
 
-// Trường bắt buộc – Mã vật tư / Năm sản xuất / Office là KHÔNG bắt buộc
+// Trường bắt buộc – Mã vật tư / Năm sản xuất / Office / Tình trạng là KHÔNG bắt buộc
 const COMMON_REQUIRED = [
-  "Tên Bưu cục", "Họ và tên người sử dụng",
+  "Mã Bưu cục", "Tên Bưu cục",
+  "Họ và tên người sử dụng",
   "Bộ phận / Phòng ban",
-  "Tên tài sản\n(Theo danh mục CCDC)", "Tình trạng",
+  "Tên tài sản\n(Theo danh mục CCDC)",
 ];
 
 const COMPUTER_FORM_EXCLUDED = new Set([
@@ -186,7 +187,25 @@ async function githubGet(path, token) {
 }
 
 async function loadInventoryFromGitHub() {
-  // Đọc qua raw URL (không cần auth, public repo)
+  const token = getWriteToken();
+
+  // Nếu có token: dùng Contents API (không bị cache CDN, luôn có dữ liệu mới nhất)
+  if (token && token !== "PASTE_YOUR_FINE_GRAINED_PAT_HERE") {
+    try {
+      const res = await githubGet(
+        `/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.dataFile}`,
+        token
+      );
+      if (res.ok) {
+        const data = await res.json();
+        // Nội dung được trả về dưới dạng base64
+        const decoded = atob(data.content.replace(/\n/g, ""));
+        return JSON.parse(decoded);
+      }
+    } catch { /* fall through to raw URL */ }
+  }
+
+  // Không có token (public read): dùng raw URL với cache-bust
   const rawUrl = `https://raw.githubusercontent.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/${GITHUB_CONFIG.branch}/${GITHUB_CONFIG.dataFile}?t=${Date.now()}`;
   try {
     const res = await fetch(rawUrl);
@@ -580,14 +599,15 @@ async function saveRecord(event) {
 
     await saveInventoryToGitHub(records, `Cập nhật phiếu thiết bị – ${now}`);
 
+    // Cập nhật state trực tiếp – không cần đọc lại từ GitHub (tránh cache CDN)
+    state.records = records;
+    state.stats = computeStats(records);
+    renderRecords();
+    renderStats();
+
     resetForm({ keepStatus: true });
     formStatus.textContent = "Đã gửi phiếu thành công lên GitHub.";
     formStatus.className = "status form-status is-success";
-
-    if (state.isAdmin) {
-      // Chờ GitHub commit lan truyền rồi reload
-      setTimeout(loadRecords, 1500);
-    }
   } catch (err) {
     formStatus.textContent = err.message || "Không lưu được phiếu.";
     formStatus.className = "status form-status is-error";

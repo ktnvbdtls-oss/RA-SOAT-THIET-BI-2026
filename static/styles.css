@@ -216,9 +216,11 @@ h2 {
 
 /* ── Trường bắt buộc & validation ── */
 .req-mark {
+  display: inline !important;  /* Ghi đè label span { display:block } */
   color: var(--danger);
   font-weight: 800;
   margin-left: 2px;
+  vertical-align: baseline;
 }
 
 label.is-required > span {
