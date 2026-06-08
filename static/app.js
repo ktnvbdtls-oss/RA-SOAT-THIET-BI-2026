@@ -163,9 +163,13 @@ function fieldInputType(field) {
 // ─── GitHub API ───────────────────────────────────────────────────────────────
 
 function getWriteToken() {
-  // Ưu tiên: admin token (sessionStorage) → write token (localStorage) → rỗng
+  // Thứ tự ưu tiên:
+  // 1. Admin session (sessionStorage) – đăng nhập quản trị
+  // 2. localStorage (thiết lập thủ công trước đó)
+  // 3. Token inject từ GitHub Actions Secret (tự động cho mọi client)
   return sessionStorage.getItem("gh_admin_token")
     || localStorage.getItem("gh_write_token")
+    || (typeof GITHUB_CONFIG !== "undefined" && GITHUB_CONFIG.writeToken)
     || "";
 }
 
@@ -238,8 +242,11 @@ async function getInventorySha(token) {
 
 async function saveInventoryToGitHub(records, commitMessage) {
   const token = getWriteToken();
-  if (!token || token === "PASTE_YOUR_FINE_GRAINED_PAT_HERE") {
-    throw new Error("Chưa cấu hình token ghi dữ liệu. Vui lòng liên hệ quản trị viên.");
+  if (!token) {
+    throw new Error(
+      "Chưa có token ghi dữ liệu. " +
+      "Vui lòng liên hệ quản trị viên để thiết lập."
+    );
   }
 
   // Lấy SHA hiện tại (bắt buộc cho GitHub PUT API)

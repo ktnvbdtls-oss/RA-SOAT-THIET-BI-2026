@@ -27,6 +27,41 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      # ── Inject write token từ GitHub Secret vào github-config.js ────────────
+      # Token được lưu mã hóa trong GitHub Secrets, KHÔNG bao giờ xuất hiện trong code.
+      # Client nhận token tự động khi tải trang – không cần thiết lập gì thêm.
+      - name: Inject write token for client submissions
+        env:
+          WRITE_TOKEN: ${{ secrets.WRITE_TOKEN }}
+        run: |
+          python3 - << 'PYEOF'
+          import os, json
+
+          token = os.environ.get("WRITE_TOKEN", "")
+
+          config_js = """/**
+           * Cấu hình GitHub – Tự động tạo bởi GitHub Actions.
+           * Không chỉnh sửa file này trực tiếp.
+           * Token được inject từ GitHub Secret WRITE_TOKEN (không lưu trong code).
+           */
+          const GITHUB_CONFIG = {
+            owner: "nguyennam90",
+            repo:  "Check_thiet_bi",
+            branch: "main",
+            dataFile: "data/inventory.json",
+            writeToken: \"""" + token + """\",
+          };
+          """
+
+          with open("static/github-config.js", "w", encoding="utf-8") as f:
+              f.write(config_js)
+
+          if token:
+              print(f"[OK] WRITE_TOKEN da duoc inject ({len(token)} ky tu)")
+          else:
+              print("[WARN] WRITE_TOKEN chua duoc cau hinh - client se khong the gui phieu")
+          PYEOF
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
