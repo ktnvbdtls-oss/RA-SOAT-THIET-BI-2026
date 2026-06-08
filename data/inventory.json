@@ -63,17 +63,17 @@
       "updatedAt": "2026-06-08T04:36:08"
     },
     {
-      "id": "5048442240a341478fd477d0a0568812",
+      "id": "11b82eed8f2b4fa3a2e1106bd0231240",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "4809",
-        "Tên Xã": "a",
+        "Tên Xã": "VP Bưu điện tỉnh",
         "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "a",
-        "Họ và tên người sử dụng": "a",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "trung tâm kinh doanh",
-        "Mã vật tư": "",
+        "Tên Bưu cục": "Bưu cực VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Văn Nam",
+        "Mã HRM": "00027592",
+        "Bộ phận / Phòng ban": "aaaaaa",
+        "Mã vật tư": "1",
         "Tên máy (Hostname)": "DESKTOP-CFC4MOK",
         "Loại máy": "Laptop",
         "Hãng": "Dell Inc.",
@@ -90,8 +90,8 @@
         "MAC Address": "B4:0E:DE:2B:2C:D0"
       },
       "attachments": [],
-      "createdAt": "2026-06-08T06:37:10",
-      "updatedAt": "2026-06-08T06:37:10"
+      "createdAt": "2026-06-08T06:39:00",
+      "updatedAt": "2026-06-08T06:39:00"
     }
   ]
 }
