@@ -5,9 +5,10 @@ const GITHUB_API = "https://api.github.com";
 
 // ─── Schema thiết bị (hardcoded từ biểu mẫu Ra_Soat_Thiet_Bi_CNTT.xlsx) ─────
 
+// Trường bắt buộc – Mã vật tư / Năm sản xuất / Office là KHÔNG bắt buộc
 const COMMON_REQUIRED = [
-  "Tên Tỉnh", "Tên Bưu cục", "Họ và tên người sử dụng",
-  "Bộ phận / Phòng ban", "Mã vật tư",
+  "Tên Bưu cục", "Họ và tên người sử dụng",
+  "Bộ phận / Phòng ban",
   "Tên tài sản\n(Theo danh mục CCDC)", "Tình trạng",
 ];
 
@@ -279,20 +280,24 @@ function renderAttachmentOptions(record = null) {
 
 function renderFields(record = null) {
   const values = record?.fields || {};
+  const reqSet = new Set(currentSchema()?.required || []);
   dynamicFields.innerHTML = fieldsForCurrentCategory()
     .map((field) => {
       const id = `field-${btoa(unescape(encodeURIComponent(field))).replace(/=+$/g, "")}`;
       const value = values[field] || "";
       const wide = isLongField(field) ? " is-wide" : "";
+      const isReq = reqSet.has(field);
+      const reqAttr = isReq ? " required" : "";
+      const reqMark = isReq ? ` <span class="req-mark" title="Bắt buộc">*</span>` : "";
       if (isLongField(field)) {
-        return `<label class="${wide}">
-          <span>${escapeHtml(field)}</span>
-          <textarea class="input" name="${escapeHtml(field)}" id="${id}">${escapeHtml(value)}</textarea>
+        return `<label class="${wide}${isReq ? " is-required" : ""}">
+          <span>${escapeHtml(field)}${reqMark}</span>
+          <textarea class="input" name="${escapeHtml(field)}" id="${id}"${reqAttr}>${escapeHtml(value)}</textarea>
         </label>`;
       }
-      return `<label class="${wide}">
-        <span>${escapeHtml(field)}</span>
-        <input class="input" name="${escapeHtml(field)}" id="${id}" type="${fieldInputType(field)}" value="${escapeHtml(value)}" />
+      return `<label class="${wide}${isReq ? " is-required" : ""}">
+        <span>${escapeHtml(field)}${reqMark}</span>
+        <input class="input" name="${escapeHtml(field)}" id="${id}" type="${fieldInputType(field)}" value="${escapeHtml(value)}"${reqAttr} />
       </label>`;
     })
     .join("");
@@ -514,8 +519,36 @@ function resetForm({ keepStatus = false } = {}) {
 
 async function saveRecord(event) {
   event.preventDefault();
+
+  // ── Kiểm tra trường bắt buộc trước khi gửi ──────────────────────────────
+  const schema = currentSchema();
+  const formValues = readFormFields();
+  const missing = (schema?.required || []).filter((f) => !formValues[f]?.trim());
+
+  // Xóa highlight cũ
+  dynamicFields.querySelectorAll(".input-error").forEach((el) =>
+    el.classList.remove("input-error")
+  );
+
+  if (missing.length > 0) {
+    // Highlight từng trường còn trống
+    missing.forEach((field) => {
+      const el = dynamicFields.querySelector(`[name="${CSS.escape(field)}"]`);
+      if (el) el.classList.add("input-error");
+    });
+    // Cuộn đến trường đầu tiên còn trống
+    const firstEl = dynamicFields.querySelector(".input-error");
+    firstEl?.scrollIntoView({ behavior: "smooth", block: "center" });
+
+    const labels = missing.map((f) => f.split("\n")[0]);
+    formStatus.textContent = `Vui lòng điền đầy đủ trường bắt buộc: ${labels.join(", ")}`;
+    formStatus.className = "status form-status is-error";
+    return;
+  }
+
   formStatus.textContent = "Đang lưu phiếu lên GitHub...";
   formStatus.className = "status form-status";
+
 
   try {
     // Tải bản hiện tại từ GitHub để tránh ghi đè mất dữ liệu
