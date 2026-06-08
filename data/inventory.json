@@ -273,41 +273,35 @@
       "updatedAt": "2026-06-08T09:51:24"
     },
     {
-      "id": "36e2fe2007014544af61130283aff2ee",
+      "id": "4779064d843b4c398e30cd7586592a12",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "VPBĐT",
-        "Họ và tên người sử dụng": "Nghiêm Thị Thanh Liễu",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
         "Mã HRM": "",
-        "Bộ phận / Phòng ban": "phòng TCKH",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VNPOST",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "B05K862",
-        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
-        "RAM": "3,9 GB",
-        "Ổ cứng": "223 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
         "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.43.130.51",
-        "MAC Address": "64:00:6A:01:E6:95"
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon LPB 2900",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-08T09:52:39",
-      "updatedAt": "2026-06-08T09:52:39"
+      "attachments": [],
+      "createdAt": "2026-06-08T09:52:41",
+      "updatedAt": "2026-06-08T09:52:41"
     }
   ]
 }
