@@ -61,6 +61,37 @@
       "attachments": [],
       "createdAt": "2026-06-08T04:36:08",
       "updatedAt": "2026-06-08T04:36:08"
+    },
+    {
+      "id": "5048442240a341478fd477d0a0568812",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4809",
+        "Tên Xã": "a",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "a",
+        "Họ và tên người sử dụng": "a",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CFC4MOK",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 5420",
+        "Năm sản xuất": "",
+        "Serial Number": "5MW08C3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.108",
+        "MAC Address": "B4:0E:DE:2B:2C:D0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T06:37:10",
+      "updatedAt": "2026-06-08T06:37:10"
     }
   ]
 }
