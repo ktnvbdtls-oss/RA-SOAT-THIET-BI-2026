@@ -365,6 +365,48 @@
       ],
       "createdAt": "2026-06-11T09:32:16",
       "updatedAt": "2026-06-11T09:32:16"
+    },
+    {
+      "id": "ee063db159d145808a4773f3f80ca57f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245630",
+        "Tên Bưu cục": "KT Chi Lăng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Huyền",
+        "Mã HRM": "00042745",
+        "Bộ phận / Phòng ban": "Phòng Khai Thác",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "DESKTOP-UT3VJ3N",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZV70T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.35.24",
+        "MAC Address": "B8:85:84:B1:4A:23"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "D3J183400294"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "18155523400405"
+        }
+      ],
+      "createdAt": "2026-06-11T09:39:50",
+      "updatedAt": "2026-06-11T09:39:50"
     }
   ]
 }
