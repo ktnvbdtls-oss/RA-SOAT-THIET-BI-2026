@@ -1,37 +1,6 @@
 {
   "records": [
     {
-      "id": "37c333e2d1e249a28b2991640b4e800a",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "Văn phòng Bưu Điện Tỉnh",
-        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Tịnh",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "Phòng TCKH",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "TINH",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
-        "Năm sản xuất": "",
-        "Serial Number": "64KM8F2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "238 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.43.130.63",
-        "MAC Address": "18:66:DA:28:FA:3C"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-08T09:40:57",
-      "updatedAt": "2026-06-08T09:40:57"
-    },
-    {
       "id": "e39abd2be21b4ccab34c5a25431de8ae",
       "category": "3. Máy Tính",
       "fields": {
