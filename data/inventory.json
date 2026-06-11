@@ -481,6 +481,48 @@
       ],
       "createdAt": "2026-06-11T09:44:22",
       "updatedAt": "2026-06-11T09:44:22"
+    },
+    {
+      "id": "7fe68a8855b848779488248d80c42ac2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "CHI LĂNG",
+        "Mã Bưu cục": "245940",
+        "Tên Bưu cục": "BC ĐỒNG BÀNH",
+        "Họ và tên người sử dụng": "VY THỊ NGỌC QUỲNH",
+        "Mã HRM": "00222599",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2456-DONGBANH",
+        "Loại máy": "Desktop",
+        "Hãng": "DANAWA COMPUTER Co., Ltd.",
+        "Model": "Desktop",
+        "Năm sản xuất": "",
+        "Serial Number": "G1L805E8-V1",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "04:92:26:D2:8D:22"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "2900"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "25345B2505"
+        }
+      ],
+      "createdAt": "2026-06-11T09:51:39",
+      "updatedAt": "2026-06-11T09:51:39"
     }
   ]
 }
