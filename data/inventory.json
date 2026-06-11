@@ -444,6 +444,43 @@
       ],
       "createdAt": "2026-06-11T09:44:55",
       "updatedAt": "2026-06-11T09:44:55"
+    },
+    {
+      "id": "7a8c6b587aba46ea8c6cdd00374b92a5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "Cao Lộc",
+        "Họ và tên người sử dụng": "Lê Minh Hải",
+        "Mã HRM": "00042835",
+        "Bộ phận / Phòng ban": "BC2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2419-GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "671 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.88.160",
+        "MAC Address": "04:42:1A:0E:A6:30"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp",
+          "serial": "PHFYF00954"
+        }
+      ],
+      "createdAt": "2026-06-11T09:44:22",
+      "updatedAt": "2026-06-11T09:44:22"
     }
   ]
 }
