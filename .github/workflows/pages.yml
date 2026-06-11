@@ -38,7 +38,7 @@ jobs:
           import os, json
 
           token = os.environ.get("WRITE_TOKEN", "")
-          repo_full = os.environ.get("GITHUB_REPOSITORY", "nguyennam90/Check_thiet_bi")
+          repo_full = os.environ.get("GITHUB_REPOSITORY", "ktnvbdtls-oss/RA-SOAT-THIET-BI-2026")
           owner, repo = repo_full.split("/", 1)
 
           config_js = f"""/**
