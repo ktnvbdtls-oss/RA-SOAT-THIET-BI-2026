@@ -1,43 +1,6 @@
 {
   "records": [
     {
-      "id": "052b651f73c24095ab6acfb2538a1b31",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "XÃ HƯƠNG SƠN",
-        "Mã Bưu cục": "485600",
-        "Tên Bưu cục": "HƯƠNG SƠN",
-        "Họ và tên người sử dụng": "NGUYỄN THỊ THU HƯƠNG",
-        "Mã HRM": "00028046",
-        "Bộ phận / Phòng ban": "GIAO DỊCH",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "",
-        "Loại máy": "",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-08T10:00:10",
-      "updatedAt": "2026-06-08T10:00:10"
-    },
-    {
       "id": "796f9b50f7a34aa9ad423f7cda246d28",
       "category": "3. Máy Tính",
       "fields": {
