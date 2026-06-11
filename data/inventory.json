@@ -1,53 +1,6 @@
 {
   "records": [
     {
-      "id": "c193e92525194a63bfb39a2d789d41df",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "Bưu điện xã Hương Sơn",
-        "Mã Bưu cục": "485600",
-        "Tên Bưu cục": "Hương Sơn",
-        "Họ và tên người sử dụng": "Hồ Thị Quỳnh Trang",
-        "Mã HRM": "00027970",
-        "Bộ phận / Phòng ban": "Giao Dịch",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "",
-        "Loại máy": "",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-08T09:55:54",
-      "updatedAt": "2026-06-08T09:55:54"
-    },
-    {
       "id": "052b651f73c24095ab6acfb2538a1b31",
       "category": "3. Máy Tính",
       "fields": {
