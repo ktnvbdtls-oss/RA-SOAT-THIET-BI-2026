@@ -407,6 +407,43 @@
       ],
       "createdAt": "2026-06-11T09:39:50",
       "updatedAt": "2026-06-11T09:39:50"
+    },
+    {
+      "id": "1dde4ab78aca4d25a5b4531827928e94",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "Chi Lăng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Liệu",
+        "Mã HRM": "00096745",
+        "Bộ phận / Phòng ban": "Đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "2020",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz, 3600 Mhz",
+        "RAM": "4GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Windows 10",
+        "Office": "2010",
+        "Antivirus": "",
+        "IP Address": "10.20.35.22",
+        "MAC Address": "30-03-C8-14-4F-ED   Media disconnected"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser Jet Pro M404dw",
+          "serial": "Phfyf09063"
+        }
+      ],
+      "createdAt": "2026-06-11T09:44:55",
+      "updatedAt": "2026-06-11T09:44:55"
     }
   ]
 }
