@@ -1,37 +1,6 @@
 {
   "records": [
     {
-      "id": "f7d8760cd8d246b589b38c9055e3d05c",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
-        "Họ và tên người sử dụng": "Dương Thị Huyền",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "TCKH",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
-        "Loại máy": "Desktop",
-        "Hãng": "To Be Filled By O.E.M.",
-        "Model": "To Be Filled By O.E.M.",
-        "Năm sản xuất": "",
-        "Serial Number": "To Be Filled By O.E.M.",
-        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
-        "RAM": "3.7 GB",
-        "Ổ cứng": "112 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.43.130.65",
-        "MAC Address": "70:85:C2:C0:D5:28"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-08T09:40:32",
-      "updatedAt": "2026-06-08T09:40:32"
-    },
-    {
       "id": "37c333e2d1e249a28b2991640b4e800a",
       "category": "3. Máy Tính",
       "fields": {
