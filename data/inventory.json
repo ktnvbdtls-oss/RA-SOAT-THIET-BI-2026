@@ -92,6 +92,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T08:50:43",
       "updatedAt": "2026-06-11T08:50:43"
+    },
+    {
+      "id": "b0f4642d317f4334b2bfcd1c7385b0a5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "BC2 Chi Lăng",
+        "Họ và tên người sử dụng": "Lương Minh Thuận",
+        "Mã HRM": "00042748",
+        "Bộ phận / Phòng ban": "Phòng giao dịch",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "24-BDCLANG-DUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5D",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "236,68GB",
+        "Hệ điều hành": "Windows 11 Home Single Language",
+        "Office": "Office 2019",
+        "Antivirus": "",
+        "IP Address": "10.20.35.5",
+        "MAC Address": "30-03-C8-15-52-D7   Media disconnected"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "2900"
+        }
+      ],
+      "createdAt": "2026-06-11T09:06:44",
+      "updatedAt": "2026-06-11T09:06:44"
     }
   ]
 }
