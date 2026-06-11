@@ -727,6 +727,43 @@
       ],
       "createdAt": "2026-06-11T10:52:24",
       "updatedAt": "2026-06-11T10:52:24"
+    },
+    {
+      "id": "2ecbbe6a17b64b2b82c03e0e3bd6ffd5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "Chi Lăng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Liệu",
+        "Mã HRM": "00096745",
+        "Bộ phận / Phòng ban": "Khối sản xuất",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "DESKTOP-2EU8H4B",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "2020",
+        "Serial Number": "4CE223BN79",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.35.22",
+        "MAC Address": "C0:18:03:BE:F9:AD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser Jet Pro M404DW",
+          "serial": "Phfyf09063"
+        }
+      ],
+      "createdAt": "2026-06-11T10:57:19",
+      "updatedAt": "2026-06-11T10:57:19"
     }
   ]
 }
