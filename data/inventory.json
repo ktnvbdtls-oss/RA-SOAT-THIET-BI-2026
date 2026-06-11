@@ -323,6 +323,48 @@
       ],
       "createdAt": "2026-06-11T09:25:14",
       "updatedAt": "2026-06-11T09:25:14"
+    },
+    {
+      "id": "2d0db6d6d389417791a8d1ddc2e81433",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245670",
+        "Tên Bưu cục": "BCP Chi Lăng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Huyền",
+        "Mã HRM": "00042745",
+        "Bộ phận / Phòng ban": "Phòng Khai Thác",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "2456-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5C",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.35.7",
+        "MAC Address": "C0:18:03:BE:F9:47"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "laser jet Pro M404dw"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "hony well",
+          "serial": "25345B2517"
+        }
+      ],
+      "createdAt": "2026-06-11T09:32:16",
+      "updatedAt": "2026-06-11T09:32:16"
     }
   ]
 }
