@@ -213,6 +213,37 @@
       ],
       "createdAt": "2026-06-11T09:17:49",
       "updatedAt": "2026-06-11T09:17:49"
+    },
+    {
+      "id": "144b34c9405e4bdfa45e1a5c91753b75",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "Bưu điện Chi Lăng",
+        "Họ và tên người sử dụng": "Lê Việt Long",
+        "Mã HRM": "00096743",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDCLANG-KD02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5K",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.35.23",
+        "MAC Address": "C0:18:03:BE:F8:EB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T09:20:26",
+      "updatedAt": "2026-06-11T09:20:26"
     }
   ]
 }
