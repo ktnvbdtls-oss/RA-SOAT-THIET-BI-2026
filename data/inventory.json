@@ -622,6 +622,43 @@
       ],
       "createdAt": "2026-06-11T09:58:43",
       "updatedAt": "2026-06-11T09:58:43"
+    },
+    {
+      "id": "fa01fb56257848c38e439ce05107343f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Mai Phương",
+        "Mã HRM": "00042310",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAYIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.45.4",
+        "MAC Address": "10:FF:E0:5B:CF:80"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LBP233dw/Canon",
+          "serial": "NYHA221497"
+        }
+      ],
+      "createdAt": "2026-06-11T10:16:38",
+      "updatedAt": "2026-06-11T10:16:38"
     }
   ]
 }
