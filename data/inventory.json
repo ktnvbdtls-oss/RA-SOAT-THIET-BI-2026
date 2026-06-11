@@ -1,37 +1,6 @@
 {
   "records": [
     {
-      "id": "e39abd2be21b4ccab34c5a25431de8ae",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "Văn phòng Bưu điện Tỉnh",
-        "Họ và tên người sử dụng": "Trần Thị Quỳnh Hoa",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "Tài Chính Kế Hoạch",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP ProDesk 600 G5 Desktop Mini",
-        "Năm sản xuất": "",
-        "Serial Number": "8CC011331R",
-        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "223 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.43.130.69",
-        "MAC Address": "38:22:E2:19:3D:5D"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-08T09:41:14",
-      "updatedAt": "2026-06-08T09:41:14"
-    },
-    {
       "id": "4c0e8133043b4f03928ad0ac3c77c516",
       "category": "3. Máy Tính",
       "fields": {
