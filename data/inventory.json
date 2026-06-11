@@ -554,6 +554,37 @@
       "attachments": [],
       "createdAt": "2026-06-11T09:54:16",
       "updatedAt": "2026-06-11T09:54:16"
+    },
+    {
+      "id": "7eb38ce9941542368658bbdbb60b87cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "CHI LĂNG",
+        "Mã Bưu cục": "245940",
+        "Tên Bưu cục": "BC ĐỒNG BÀNH",
+        "Họ và tên người sử dụng": "VY THỊ NGỌC QUỲNH",
+        "Mã HRM": "00222599",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CÂN ĐIỆN TỬ",
+        "Loại máy": "cân bàn",
+        "Hãng": "EXCEL",
+        "Model": "AWH3",
+        "Năm sản xuất": "",
+        "Serial Number": "V18100044",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T09:56:33",
+      "updatedAt": "2026-06-11T09:56:33"
     }
   ]
 }
