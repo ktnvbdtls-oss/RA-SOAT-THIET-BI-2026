@@ -61,6 +61,37 @@
       "attachments": [],
       "createdAt": "2026-06-11T08:34:58",
       "updatedAt": "2026-06-11T08:34:58"
+    },
+    {
+      "id": "9b71983dd7d44ade8865934470dc58ce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VĂN PHÒNG BĐT",
+        "Họ và tên người sử dụng": "LÊ THỊ PHƯƠNG THẢO",
+        "Mã HRM": "00105232",
+        "Bộ phận / Phòng ban": "ĐỐI SOÁT - TRUNG TÂM VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-KTNV-THAONP",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8350K CPU @ 4.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.36",
+        "MAC Address": "B4:2E:99:2F:AD:3E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T08:50:43",
+      "updatedAt": "2026-06-11T08:50:43"
     }
   ]
 }
