@@ -690,6 +690,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T10:41:42",
       "updatedAt": "2026-06-11T10:41:42"
+    },
+    {
+      "id": "86adf77e75bc436cbb0aeeda28b4a8e0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "chi lăng",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "bc2 chi lăng",
+        "Họ và tên người sử dụng": "Hoàng Minh Tuyết",
+        "Mã HRM": "00042751",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "CC5021",
+        "Tên máy (Hostname)": "DESKTOP-4I52RSP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN56",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.35.16",
+        "MAC Address": "C0:18:03:BE:FC:1B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "MTGA104667"
+        }
+      ],
+      "createdAt": "2026-06-11T10:52:24",
+      "updatedAt": "2026-06-11T10:52:24"
     }
   ]
 }
