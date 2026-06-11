@@ -286,6 +286,43 @@
       ],
       "createdAt": "2026-06-11T09:20:27",
       "updatedAt": "2026-06-11T09:20:27"
+    },
+    {
+      "id": "d693e5eb63834d56aed45fd8a1c77251",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2427",
+        "Tên Xã": "Bưu điện xã Na Sầm",
+        "Mã Bưu cục": "252500",
+        "Tên Bưu cục": "Bưu cục Văn Lãng",
+        "Họ và tên người sử dụng": "Hoàng Mạnh Tiến",
+        "Mã HRM": "00042332",
+        "Bộ phận / Phòng ban": "Giám đốc BĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDVL-GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "2KMDH62",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Anti-Virus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.41.16",
+        "MAC Address": "B0:83:FE:AE:83:D9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP- laser jet pro M404dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:25:14",
+      "updatedAt": "2026-06-11T09:25:14"
     }
   ]
 }
