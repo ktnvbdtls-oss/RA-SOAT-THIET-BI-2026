@@ -67,6 +67,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T06:58:35",
       "updatedAt": "2026-06-11T06:58:35"
+    },
+    {
+      "id": "cfafbdd95e3b47129c66c8b16411e794",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "245000",
+        "Tên Xã": "Bắc Sơn",
+        "Mã Bưu cục": "245000",
+        "Tên Bưu cục": "Bắc Sơn",
+        "Họ và tên người sử dụng": "Test",
+        "Mã HRM": "12345",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "1234",
+        "Tên máy (Hostname)": "DESKTOP-M6Q2D01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "2021",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "1270 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.51",
+        "MAC Address": "10:FF:E0:5B:D6:5E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "1111",
+          "serial": "2222"
+        }
+      ],
+      "createdAt": "2026-06-11T08:11:22",
+      "updatedAt": "2026-06-11T08:11:22"
     }
   ]
 }
