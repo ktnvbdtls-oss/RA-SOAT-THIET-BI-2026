@@ -36,6 +36,37 @@
       ],
       "createdAt": "2026-06-11T06:26:26",
       "updatedAt": "2026-06-11T06:26:26"
+    },
+    {
+      "id": "e63052de5c8848ee913cbbd4f1c47015",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241412",
+        "Tên Bưu cục": "ffasf",
+        "Họ và tên người sử dụng": "fasfasf",
+        "Mã HRM": "3123441",
+        "Bộ phận / Phòng ban": "412412",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-KTNV-TIENNV",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH438QKGB",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "527 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.18362",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.59",
+        "MAC Address": "C4:34:6B:61:BA:91"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T06:58:35",
+      "updatedAt": "2026-06-11T06:58:35"
     }
   ]
 }
