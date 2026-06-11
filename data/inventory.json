@@ -104,6 +104,37 @@
       ],
       "createdAt": "2026-06-11T08:11:22",
       "updatedAt": "2026-06-11T08:11:22"
+    },
+    {
+      "id": "a0064ef98fce439390c041e765fbe4d2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "241225",
+        "Tên Xã": "VP Bưu điện tỉnh",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Lê Tuấn Anh",
+        "Mã HRM": "00042743",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-M6Q2D01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "-1",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "1270 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.51",
+        "MAC Address": "10:FF:E0:5B:D6:5E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T08:17:14",
+      "updatedAt": "2026-06-11T08:17:14"
     }
   ]
 }
