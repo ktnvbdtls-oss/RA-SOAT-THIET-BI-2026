@@ -523,6 +523,37 @@
       ],
       "createdAt": "2026-06-11T09:51:39",
       "updatedAt": "2026-06-11T09:51:39"
+    },
+    {
+      "id": "803794b087c248e991ecf36ebfb4001c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "CHI LĂNG",
+        "Mã Bưu cục": "245940",
+        "Tên Bưu cục": "BC ĐỒNG BÀNH",
+        "Họ và tên người sử dụng": "VY THỊ NGỌC QUỲNH",
+        "Mã HRM": "00222599",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MÁY IN TIỀN ĐIỆN",
+        "Loại máy": "",
+        "Hãng": "POSBANK",
+        "Model": "A8",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T09:54:16",
+      "updatedAt": "2026-06-11T09:54:16"
     }
   ]
 }
