@@ -1,48 +1,6 @@
 {
   "records": [
     {
-      "id": "796f9b50f7a34aa9ad423f7cda246d28",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "486040",
-        "Tên Xã": "Xã sơn lĩnh",
-        "Mã Bưu cục": "486040",
-        "Tên Bưu cục": "Bưu điện vh xã sơn lĩnh",
-        "Họ và tên người sử dụng": "Đinh Thị vân huyền",
-        "Mã HRM": "00027986",
-        "Bộ phận / Phòng ban": "Văn hóa xã",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "",
-        "Loại máy": "",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Vh",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-08T10:13:44",
-      "updatedAt": "2026-06-08T10:13:44"
-    },
-    {
       "id": "8e97e5e03c174a3b8dd1c3dcc6475bc4",
       "category": "3. Máy Tính",
       "fields": {
