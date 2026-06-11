@@ -585,6 +585,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T09:56:33",
       "updatedAt": "2026-06-11T09:56:33"
+    },
+    {
+      "id": "4ca63d182a1e4416b858e2c2073b66d0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "CHI LĂNG",
+        "Mã Bưu cục": "245940",
+        "Tên Bưu cục": "BC ĐỒNG BÀNH",
+        "Họ và tên người sử dụng": "VY THỊ NGỌC QUỲNH",
+        "Mã HRM": "00222599",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAYCHU",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180104",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.19",
+        "MAC Address": "50:AF:73:38:1D:5E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        }
+      ],
+      "createdAt": "2026-06-11T09:58:43",
+      "updatedAt": "2026-06-11T09:58:43"
     }
   ]
 }
