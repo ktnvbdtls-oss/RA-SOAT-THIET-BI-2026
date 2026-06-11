@@ -244,6 +244,48 @@
       "attachments": [],
       "createdAt": "2026-06-11T09:20:26",
       "updatedAt": "2026-06-11T09:20:26"
+    },
+    {
+      "id": "449e623f006543c4a0ae99f77c0f5a09",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "BC2 Chi Lăng",
+        "Họ và tên người sử dụng": "Nguyễn Thu Ngọc",
+        "Mã HRM": "00241645",
+        "Bộ phận / Phòng ban": "Phòng Giao dịch",
+        "Mã vật tư": "cc207230",
+        "Tên máy (Hostname)": "24-BDCLANG-GD02",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.35.8",
+        "MAC Address": "B4:2E:99:BF:58:2E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "POSBANK",
+          "serial": "PTAP211209674-Ẽ"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEWELL",
+          "serial": "26007B0C60"
+        }
+      ],
+      "createdAt": "2026-06-11T09:20:27",
+      "updatedAt": "2026-06-11T09:20:27"
     }
   ]
 }
