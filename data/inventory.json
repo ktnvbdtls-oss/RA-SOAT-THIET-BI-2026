@@ -1,43 +1,6 @@
 {
   "records": [
     {
-      "id": "d92d195b5a3a482f8ce1acd0c9720515",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "VPBDT",
-        "Họ và tên người sử dụng": "Vương Thị Thanh Huyền",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "phòng TCKH",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "HUYENKT",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
-        "Năm sản xuất": "",
-        "Serial Number": "65DD8F2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "223 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
-        "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.43.130.60",
-        "MAC Address": "18:66:DA:27:EA:7E"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon LPB 2900",
-          "serial": "L11121E"
-        }
-      ],
-      "createdAt": "2026-06-08T09:51:24",
-      "updatedAt": "2026-06-08T09:51:24"
-    },
-    {
       "id": "c193e92525194a63bfb39a2d789d41df",
       "category": "3. Máy Tính",
       "fields": {
