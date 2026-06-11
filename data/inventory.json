@@ -166,6 +166,53 @@
       ],
       "createdAt": "2026-06-11T09:10:31",
       "updatedAt": "2026-06-11T09:10:31"
+    },
+    {
+      "id": "a190f834e9bf43e7adf1b5a89083ecdd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "BC2 Chi Lăng",
+        "Họ và tên người sử dụng": "Nguyễn THị Hương Quỳnh",
+        "Mã HRM": "00264123",
+        "Bộ phận / Phòng ban": "Phòng giao dịch",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "24-BDCLANG-GD01",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.91.120",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "LBP2900"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell",
+          "serial": "336C26A0181"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "20205010559907"
+        }
+      ],
+      "createdAt": "2026-06-11T09:17:49",
+      "updatedAt": "2026-06-11T09:17:49"
     }
   ]
 }
