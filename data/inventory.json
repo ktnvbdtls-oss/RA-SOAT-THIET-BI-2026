@@ -659,6 +659,37 @@
       ],
       "createdAt": "2026-06-11T10:16:38",
       "updatedAt": "2026-06-11T10:16:38"
+    },
+    {
+      "id": "457c76e0352241acb7e20f18900fd3e3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Hà Lan Anh",
+        "Mã HRM": "00042303",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAY-1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3671",
+        "Năm sản xuất": "",
+        "Serial Number": "DJ72H73",
+        "CPU": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Bkav Pro Internet Security, Bkav Pro Internet Security, Windows Defender, Bkav Pro Internet Security, Bkav Pro Internet Security, Kaspersky Internet Security, Bkav Pro Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.3",
+        "MAC Address": "70:B5:E8:28:F7:FD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T10:41:42",
+      "updatedAt": "2026-06-11T10:41:42"
     }
   ]
 }
