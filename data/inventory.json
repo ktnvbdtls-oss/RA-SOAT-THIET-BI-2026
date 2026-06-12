@@ -987,6 +987,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T01:03:03",
       "updatedAt": "2026-06-12T01:03:03"
+    },
+    {
+      "id": "aad6018cc0084ee8857f5d9c5db9a33f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245920",
+        "Tên Bưu cục": "Chi Lăng",
+        "Họ và tên người sử dụng": "Phùng Thị Vi",
+        "Mã HRM": "00277844",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXCHILANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVKF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "455 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.91.127",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T01:41:26",
+      "updatedAt": "2026-06-12T01:41:26"
     }
   ]
 }
