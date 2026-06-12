@@ -1483,6 +1483,43 @@
       ],
       "createdAt": "2026-06-12T05:34:40",
       "updatedAt": "2026-06-12T05:34:40"
+    },
+    {
+      "id": "6c2b1808d5d74ea8ac26efb2bf96e3e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2455",
+        "Tên Xã": "Bằng Mạc",
+        "Mã Bưu cục": "245840",
+        "Tên Bưu cục": "Bằng Hữu",
+        "Họ và tên người sử dụng": "Hoàng Thị Khiêm",
+        "Mã HRM": "00042759",
+        "Bộ phận / Phòng ban": "Sản Xuất kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TEBJQ3J",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132X3",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "38:22:E2:18:91:10"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET M404DW",
+          "serial": "PHFYF09057"
+        }
+      ],
+      "createdAt": "2026-06-12T06:31:43",
+      "updatedAt": "2026-06-12T06:31:43"
     }
   ]
 }
