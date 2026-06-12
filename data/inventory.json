@@ -1247,6 +1247,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T03:04:42",
       "updatedAt": "2026-06-12T03:04:42"
+    },
+    {
+      "id": "c4053cdf87d347f8970eb28f95d2cc1d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241255",
+        "Tên Bưu cục": "VP BT",
+        "Họ và tên người sử dụng": "Lăng Văn Hưng",
+        "Mã HRM": "00043005",
+        "Bộ phận / Phòng ban": "TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HPcompaqpro 6300",
+        "Loại máy": "HP",
+        "Hãng": "HP",
+        "Model": "HP",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "core i3 3220",
+        "RAM": "2GB",
+        "Ổ cứng": "500GB",
+        "Hệ điều hành": "win 7",
+        "Office": "10",
+        "Antivirus": "không",
+        "IP Address": "10.20.45.46",
+        "MAC Address": "88-51-FB-4E-13-21"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T03:11:04",
+      "updatedAt": "2026-06-12T03:11:04"
     }
   ]
 }
