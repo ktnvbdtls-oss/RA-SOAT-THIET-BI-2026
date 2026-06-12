@@ -1599,6 +1599,43 @@
       ],
       "createdAt": "2026-06-12T07:13:33",
       "updatedAt": "2026-06-12T07:13:33"
+    },
+    {
+      "id": "a0d8bd1ed5e94cdc88b76b1272a60a8b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2477",
+        "Tên Xã": "Vạn Linh",
+        "Mã Bưu cục": "245800",
+        "Tên Bưu cục": "Hòa Bình",
+        "Họ và tên người sử dụng": "Triệu Thị May",
+        "Mã HRM": "00042757",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDCLANG-KD01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN61",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.0.143",
+        "MAC Address": "30:03:C8:14:32:99"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "TRIỆU THỊ MAY",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:56:38",
+      "updatedAt": "2026-06-12T07:56:38"
     }
   ]
 }
