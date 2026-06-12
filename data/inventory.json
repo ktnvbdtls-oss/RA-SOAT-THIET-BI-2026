@@ -1362,6 +1362,43 @@
       ],
       "createdAt": "2026-06-12T04:02:14",
       "updatedAt": "2026-06-12T04:02:14"
+    },
+    {
+      "id": "05e6dd66146a4b8c8e07a2065bcf9b9f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2453",
+        "Tên Xã": "chiến thắng",
+        "Mã Bưu cục": "245696",
+        "Tên Bưu cục": "Vân Thủy",
+        "Họ và tên người sử dụng": "Lương Thị Nhọi",
+        "Mã HRM": "00262285",
+        "Bộ phận / Phòng ban": "Sản Xuất kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QPP1FR1",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN4Z",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.45",
+        "MAC Address": "30:03:C8:14:32:9B"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Laser Jet M404dw",
+          "serial": "PHFYF01917"
+        }
+      ],
+      "createdAt": "2026-06-12T04:59:12",
+      "updatedAt": "2026-06-12T04:59:12"
     }
   ]
 }
