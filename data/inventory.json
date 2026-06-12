@@ -1315,6 +1315,53 @@
       ],
       "createdAt": "2026-06-12T03:51:09",
       "updatedAt": "2026-06-12T03:51:09"
+    },
+    {
+      "id": "c5a0e0e33f28487f988f3a739775d548",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2454",
+        "Tên Xã": "Quan Sơn",
+        "Mã Bưu cục": "245960",
+        "Tên Bưu cục": "Quan Sơn",
+        "Họ và tên người sử dụng": "Triệu Thị Tươi",
+        "Mã HRM": "00227112",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-A9OOIP3",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113308",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.91.129",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "POSBANK , MADE IN KOREA, A8",
+          "serial": "PTAP211209681"
+        },
+        {
+          "type": "photocopier",
+          "name": "hp , made viet nam ,nem ber",
+          "serial": "VNP 4D03520"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "vcl",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:02:14",
+      "updatedAt": "2026-06-12T04:02:14"
     }
   ]
 }
