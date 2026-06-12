@@ -1117,6 +1117,37 @@
       ],
       "createdAt": "2026-06-12T01:56:41",
       "updatedAt": "2026-06-12T01:56:41"
+    },
+    {
+      "id": "490770e216b84e8ba949adacfd275c4c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2452",
+        "Tên Xã": "Nhân Lý",
+        "Mã Bưu cục": "245760",
+        "Tên Bưu cục": "Mai Sao",
+        "Họ và tên người sử dụng": "Hoàng thị Mai",
+        "Mã HRM": "00239533",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-SRNSM1Q",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZX40T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.38",
+        "MAC Address": "B8:85:84:AA:DD:9A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T02:07:40",
+      "updatedAt": "2026-06-12T02:07:40"
     }
   ]
 }
