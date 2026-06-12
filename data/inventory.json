@@ -956,6 +956,37 @@
       ],
       "createdAt": "2026-06-12T00:09:08",
       "updatedAt": "2026-06-12T00:09:08"
+    },
+    {
+      "id": "12a128bfa4c34a3ebcce245d80e8f785",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2409",
+        "Tên Bưu cục": "VĂN PHÒNG",
+        "Họ và tên người sử dụng": "VY HỒNG VÂN",
+        "Mã HRM": "00272994",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VANTCKH",
+        "Loại máy": "Desktop",
+        "Hãng": "INTEL",
+        "Model": "H510",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "462 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.45.11",
+        "MAC Address": "00:E0:4C:D3:01:F8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T01:03:03",
+      "updatedAt": "2026-06-12T01:03:03"
     }
   ]
 }
