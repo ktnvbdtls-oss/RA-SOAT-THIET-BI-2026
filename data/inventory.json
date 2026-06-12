@@ -1148,6 +1148,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T02:07:40",
       "updatedAt": "2026-06-12T02:07:40"
+    },
+    {
+      "id": "fc9a0efaaeef4d9db8c24c90764986b1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Thu Hường",
+        "Mã HRM": "00042307",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-4VI7MOE",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3671",
+        "Năm sản xuất": "",
+        "Serial Number": "DJ49H73",
+        "CPU": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Bkav Pro Internet Security, Bkav Pro Internet Security, Windows Defender, Bkav Pro Internet Security, Bkav Pro Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.1",
+        "MAC Address": "70:B5:E8:29:92:73"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T02:56:04",
+      "updatedAt": "2026-06-12T02:56:04"
     }
   ]
 }
