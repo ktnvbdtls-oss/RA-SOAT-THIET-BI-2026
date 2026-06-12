@@ -123,12 +123,12 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "Canon",
-          "serial": "2900"
+          "name": "Canon 2900",
+          "serial": "NDMA967084"
         }
       ],
       "createdAt": "2026-06-11T09:06:44",
-      "updatedAt": "2026-06-11T09:06:44"
+      "updatedAt": "2026-06-12T09:49:08"
     },
     {
       "id": "4bab8368b4fd4d159e9d88dadd614ecf",
