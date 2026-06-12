@@ -1441,6 +1441,48 @@
       ],
       "createdAt": "2026-06-12T05:17:03",
       "updatedAt": "2026-06-12T05:17:03"
+    },
+    {
+      "id": "1db4bb17172a4e86b74a4c27bb24543a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2452",
+        "Tên Xã": "Nhân Lý",
+        "Mã Bưu cục": "245660",
+        "Tên Bưu cục": "Nhân Lý",
+        "Họ và tên người sử dụng": "Nông Thị Nhình",
+        "Mã HRM": "00042753",
+        "Bộ phận / Phòng ban": "Sản Xuất kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2456_NHANLY",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN67",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "C0:18:03:BE:FB:3C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJETPRO M404DW",
+          "serial": "PHFYB10644"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "A8 POSBANK",
+          "serial": "PTAP211209469-EX_E_S/U"
+        }
+      ],
+      "createdAt": "2026-06-12T05:34:40",
+      "updatedAt": "2026-06-12T05:34:40"
     }
   ]
 }
