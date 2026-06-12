@@ -1056,8 +1056,8 @@
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "24",
-        "Tên Bưu cục": "24",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT LS",
         "Họ và tên người sử dụng": "Nguyễn Thu Hoài",
         "Mã HRM": "00247436",
         "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
@@ -1079,7 +1079,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-12T01:48:54",
-      "updatedAt": "2026-06-12T01:48:54"
+      "updatedAt": "2026-06-12T01:53:40"
     }
   ]
 }
