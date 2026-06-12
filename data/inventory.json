@@ -1018,6 +1018,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T01:41:26",
       "updatedAt": "2026-06-12T01:41:26"
+    },
+    {
+      "id": "c88b1756498446d8a139cd90c3753017",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2455",
+        "Tên Xã": "Bằng Mạc",
+        "Mã Bưu cục": "245780",
+        "Tên Bưu cục": "Gia Lộc",
+        "Họ và tên người sử dụng": "Vy Thị Thu",
+        "Mã HRM": "00258925",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-CLANG-GIALOC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132X7",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "38:22:E2:18:91:14"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T01:58:51",
+      "updatedAt": "2026-06-12T01:58:51"
     }
   ]
 }
