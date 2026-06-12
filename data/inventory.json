@@ -1399,6 +1399,48 @@
       ],
       "createdAt": "2026-06-12T04:59:12",
       "updatedAt": "2026-06-12T04:59:12"
+    },
+    {
+      "id": "5ac6b3a176464bc9ac9ed0cd98ea2e90",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2477",
+        "Tên Xã": "Vạn Linh",
+        "Mã Bưu cục": "245899",
+        "Tên Bưu cục": "Y tịch",
+        "Họ và tên người sử dụng": "Nguyễn Thị Loan",
+        "Mã HRM": "00042761",
+        "Bộ phận / Phòng ban": "Sản Xuất",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-CLANG-YTICH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132WY",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Teams Meeting Add-in for Microsoft Office",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.91.166",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JETPRO M404DW",
+          "serial": "PHFYF00946"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "A8 PBANK",
+          "serial": "PTAP211203221 -EX_E_S/U"
+        }
+      ],
+      "createdAt": "2026-06-12T05:17:03",
+      "updatedAt": "2026-06-12T05:17:03"
     }
   ]
 }
