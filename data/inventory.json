@@ -1562,6 +1562,43 @@
       ],
       "createdAt": "2026-06-12T06:46:09",
       "updatedAt": "2026-06-12T06:46:09"
+    },
+    {
+      "id": "8012c3d383ad47058da6d709af9528fb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2455",
+        "Tên Xã": "Bằng Mạc",
+        "Mã Bưu cục": "245820",
+        "Tên Bưu cục": "Bằng Mạc",
+        "Họ và tên người sử dụng": "Hoàng Thị Trọng",
+        "Mã HRM": "00042758",
+        "Bộ phận / Phòng ban": "Sản xuất",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-MLP1G33",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113217",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.16",
+        "MAC Address": "38:22:E2:18:91:4E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser Jet Pro M404dw",
+          "serial": "PHFYF00909"
+        }
+      ],
+      "createdAt": "2026-06-12T07:13:33",
+      "updatedAt": "2026-06-12T07:13:33"
     }
   ]
 }
