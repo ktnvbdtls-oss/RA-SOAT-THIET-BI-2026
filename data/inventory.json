@@ -919,6 +919,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T11:23:54",
       "updatedAt": "2026-06-11T11:23:54"
+    },
+    {
+      "id": "647a275af0c2496a8808157f454a5d4c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "Chi Lăng",
+        "Mã Bưu cục": "245600",
+        "Tên Bưu cục": "BC2 Chi Lăng",
+        "Họ và tên người sử dụng": "Phạm Thị Việt Hường",
+        "Mã HRM": "00216098",
+        "Bộ phận / Phòng ban": "Phòng Giao dịch",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "DESKTOP-SM0TL1G",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231M16",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.35.9",
+        "MAC Address": "F8:ED:FC:6A:70:94"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "LBP2900"
+        }
+      ],
+      "createdAt": "2026-06-12T00:09:08",
+      "updatedAt": "2026-06-12T00:09:08"
     }
   ]
 }
