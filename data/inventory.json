@@ -1864,6 +1864,48 @@
       ],
       "createdAt": "2026-06-13T09:48:23",
       "updatedAt": "2026-06-13T09:48:23"
+    },
+    {
+      "id": "3762287e18c444f6917d307c7247d47a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "247570",
+        "Tên Xã": "Bính Xá",
+        "Mã Bưu cục": "247570",
+        "Tên Bưu cục": "Bính Xá",
+        "Họ và tên người sử dụng": "Hà Thị Hiệu",
+        "Mã HRM": "00238815",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-6BOE3SB",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "0",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "60:45:CB:87:4D:6C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet pro M404dw/HP-SHNGC-1800-01",
+          "serial": "PHFYF09004"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPrinter/Zhuhai-XP-T80U",
+          "serial": "XPT80U-BU2409180134"
+        }
+      ],
+      "createdAt": "2026-06-13T10:19:39",
+      "updatedAt": "2026-06-13T10:19:39"
     }
   ]
 }
