@@ -1641,6 +1641,43 @@
       ],
       "createdAt": "2026-06-12T07:56:38",
       "updatedAt": "2026-06-12T07:56:38"
+    },
+    {
+      "id": "fe02bd7a65cb4d7897bd730edc5e41be",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2473",
+        "Tên Xã": "Bưu điện xã Đình Lập",
+        "Mã Bưu cục": "247500",
+        "Tên Bưu cục": "Đình Lập",
+        "Họ và tên người sử dụng": "Trần Thu Hà",
+        "Mã HRM": "00042868",
+        "Bộ phận / Phòng ban": "2473 - Bưu điện xã Đình Lập",
+        "Mã vật tư": "CC5021",
+        "Tên máy (Hostname)": "2475-GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "2JTKH62",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.37.13",
+        "MAC Address": "B0:83:FE:AE:84:24"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in (Khối Quản lý)/HP-M404dw",
+          "serial": "PHFYB 10638"
+        }
+      ],
+      "createdAt": "2026-06-13T03:15:14",
+      "updatedAt": "2026-06-13T03:15:14"
     }
   ]
 }
