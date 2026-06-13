@@ -1720,6 +1720,38 @@
       ],
       "createdAt": "2026-06-13T09:29:37",
       "updatedAt": "2026-06-13T09:29:37"
+    },
+    {
+      "id": "f945518cac2a41aca88b8ec35508445f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "LẠNG SƠN",
+        "Mã BĐ Xã": "2451",
+        "Tên Xã": "CHI LĂNG",
+        "Mã Bưu cục": "245940",
+        "Tên Bưu cục": "BC ĐỒNG BÀNH",
+        "Họ và tên người sử dụng": "VY THỊ NGỌC QUỲNH",
+        "Mã HRM": "00222599",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BÀN",
+        "Hãng sản xuất": "EXCELL",
+        "Model": "AWH3",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "Quầy giao dịch",
+        "Tình trạng hoạt động": "Đang hoạt động tốt",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T09:33:17",
+      "updatedAt": "2026-06-13T09:33:17"
     }
   ]
 }
