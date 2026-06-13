@@ -1822,6 +1822,48 @@
       ],
       "createdAt": "2026-06-13T09:41:27",
       "updatedAt": "2026-06-13T09:41:27"
+    },
+    {
+      "id": "e8a51538e1fb4d43aac284a2926596f1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "247520",
+        "Tên Xã": "Kiên Mộc",
+        "Mã Bưu cục": "247520",
+        "Tên Bưu cục": "Kiên Mộc",
+        "Họ và tên người sử dụng": "Nông Thị Điệp",
+        "Mã HRM": "00238815",
+        "Bộ phận / Phòng ban": "VHX + Phát xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2475-THAIBINH",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "F0:2F:74:81:DD:10"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet pro M404dw/HP-SHNGC-1800-01",
+          "serial": "PHYF01650"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter/Zhuhai-XP-T80L",
+          "serial": "XPT80L-BLU2505050243"
+        }
+      ],
+      "createdAt": "2026-06-13T09:48:23",
+      "updatedAt": "2026-06-13T09:48:23"
     }
   ]
 }
