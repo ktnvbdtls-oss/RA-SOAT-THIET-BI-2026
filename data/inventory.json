@@ -1197,17 +1197,17 @@
         "Mã HRM": "00043012",
         "Bộ phận / Phòng ban": "phòng TCKH",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "4444",
-        "Loại máy": "4444",
-        "Hãng": "44444",
-        "Model": "44444",
-        "Năm sản xuất": "44444",
-        "Serial Number": "444444444",
-        "CPU": "44444",
-        "RAM": "44444",
-        "Ổ cứng": "444444",
-        "Hệ điều hành": "10",
-        "Office": "10",
+        "Tên máy (Hostname)": "LANANH",
+        "Loại máy": "máy lắp ráp",
+        "Hãng": "",
+        "Model": "H310M",
+        "Năm sản xuất": "2022",
+        "Serial Number": "Không có",
+        "CPU": "Core i3-8100, CPU 3.6Ghz",
+        "RAM": "8GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "Win 10 home",
+        "Office": "Microsoft Office Professional Plus 2010",
         "Antivirus": "BKAV",
         "IP Address": "10.20.45.7",
         "MAC Address": "E0-D5-5E-C5-E2-8E"
@@ -1220,7 +1220,7 @@
         }
       ],
       "createdAt": "2026-06-12T03:02:30",
-      "updatedAt": "2026-06-12T03:02:30"
+      "updatedAt": "2026-06-13T02:12:27"
     },
     {
       "id": "da281b1f4326478cbd4c54820295e80b",
