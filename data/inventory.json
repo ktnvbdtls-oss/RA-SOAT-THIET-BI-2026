@@ -1906,6 +1906,53 @@
       ],
       "createdAt": "2026-06-13T10:19:39",
       "updatedAt": "2026-06-13T10:19:39"
+    },
+    {
+      "id": "2f636cbc67784d1d94ff2539cef266ec",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2442",
+        "Tên Xã": "Bưu điện xã Thái Bình",
+        "Mã Bưu cục": "247650",
+        "Tên Bưu cục": "Lâm Thái",
+        "Họ và tên người sử dụng": "Bùi Văn Hùng",
+        "Mã HRM": "00042841",
+        "Bộ phận / Phòng ban": "2442 - Bưu điện xã Thái Bình",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "DESKTOP-ISM3HNG",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.37.66",
+        "MAC Address": "F0:2F:74:81:D8:A6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in (Khối Sản xuất)/Canon 2900-L11121E",
+          "serial": "FE2-2902"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Máy in mã vạch (Khối Sản xuất)/ZEBRA-ZD620",
+          "serial": "D3J204203663"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Đầu đọc mã vạch (Khối Sản xuất)/ZEBRA-DS2208",
+          "serial": "20205010562310"
+        }
+      ],
+      "createdAt": "2026-06-14T09:59:29",
+      "updatedAt": "2026-06-14T09:59:29"
     }
   ]
 }
