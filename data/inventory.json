@@ -3921,6 +3921,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T09:47:52",
       "updatedAt": "2026-06-15T09:47:52"
+    },
+    {
+      "id": "7567c5bb7c9c4e47a3d8e92151188cbc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247270",
+        "Tên Bưu cục": "Bưu Cục Na Dương",
+        "Họ và tên người sử dụng": "La Thị Thanh Thìn",
+        "Mã HRM": "00042833",
+        "Bộ phận / Phòng ban": "NVKDĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-NADUONG-02",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181395",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.39.66",
+        "MAC Address": "50:AF:73:38:21:0D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "POSTBANK",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T09:48:03",
+      "updatedAt": "2026-06-15T09:48:03"
     }
   ]
 }
