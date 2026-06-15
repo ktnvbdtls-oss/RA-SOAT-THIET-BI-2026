@@ -4769,6 +4769,37 @@
       ],
       "createdAt": "2026-06-15T10:47:51",
       "updatedAt": "2026-06-15T10:47:51"
+    },
+    {
+      "id": "53001f5f785a476099cd52a897c60369",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "NA SẦM",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "BƯU CỤC VĂN LÃNG",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân Kiều",
+        "Mã HRM": "00042613",
+        "Bộ phận / Phòng ban": "Kiểm soát viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-V30BAAK",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.118",
+        "MAC Address": "F0:2F:74:81:E0:CC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T10:49:22",
+      "updatedAt": "2026-06-15T10:49:22"
     }
   ]
 }
