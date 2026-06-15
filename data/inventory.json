@@ -4554,46 +4554,35 @@
       "updatedAt": "2026-06-15T10:22:44"
     },
     {
-      "id": "13fc910e08f44255bd2ed3c32fb80f12",
+      "id": "57a40c2e0e1548e28be7f185e33f9d26",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "241610",
-        "Tên Bưu cục": "BƯU CỤC PHÁT LẠNG SƠN",
-        "Họ và tên người sử dụng": "PHAN THỊ ÁNH HỒNG",
-        "Mã HRM": "00043016",
-        "Bộ phận / Phòng ban": "BCVH - TRUNG TÂM VẬN HÀNH LẠNG SƠN",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-5A93DS5",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 5060",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "2ZD60T2",
-        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "238 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19041",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.20.46.80",
-        "MAC Address": "B8:85:84:AB:12:34"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "CANON LBP2900",
-          "serial": "NMYA374741"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "ZEBRA",
-          "serial": "18148523400488"
-        }
-      ],
-      "createdAt": "2026-06-15T10:27:55",
-      "updatedAt": "2026-06-15T10:27:55"
+      "attachments": [],
+      "createdAt": "2026-06-15T10:27:58",
+      "updatedAt": "2026-06-15T10:27:58"
     }
   ]
 }
