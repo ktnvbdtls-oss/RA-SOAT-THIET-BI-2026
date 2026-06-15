@@ -2256,6 +2256,37 @@
       ],
       "createdAt": "2026-06-15T02:14:21",
       "updatedAt": "2026-06-15T02:14:21"
+    },
+    {
+      "id": "2c821d4c61d1455d83f596dcc09230c0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Trịnh Thị Nga",
+        "Mã HRM": "00042318",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính, Bưu điện tỉnh Lạng Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-IM32NER",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.44",
+        "MAC Address": "40:8D:5C:A1:51:B7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:17:58",
+      "updatedAt": "2026-06-15T02:17:58"
     }
   ]
 }
