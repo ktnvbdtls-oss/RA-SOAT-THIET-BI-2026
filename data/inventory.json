@@ -2021,6 +2021,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:05:54",
       "updatedAt": "2026-06-15T02:05:54"
+    },
+    {
+      "id": "a59e3d495cd54e57960e31d508f30947",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244500-Bình Gia",
+        "Tên Bưu cục": "Bình Gia",
+        "Họ và tên người sử dụng": "Hứa Văn Đạm",
+        "Mã HRM": "00045428",
+        "Bộ phận / Phòng ban": "Giám Đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2445_GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN6T",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.44.11",
+        "MAC Address": "C0:18:03:BE:FE:47"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201 dw 2014",
+          "serial": "VNC3G-13937"
+        }
+      ],
+      "createdAt": "2026-06-15T02:06:29",
+      "updatedAt": "2026-06-15T02:06:29"
     }
   ]
 }
