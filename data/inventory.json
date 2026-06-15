@@ -2971,35 +2971,35 @@
       "updatedAt": "2026-06-15T04:03:25"
     },
     {
-      "id": "8c0ca61df7a8492cb701a354ca1aa860",
+      "id": "330f497af70242a490d3790c0cb440fe",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "244500",
-        "Tên Bưu cục": "Bình Gia",
-        "Họ và tên người sử dụng": "Trần Thị Ngọc Huế",
-        "Mã HRM": "000116774",
-        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "24-BDBG-GD01",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H310M DS2",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "225 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "FortiClient AntiVirus",
-        "IP Address": "10.20.44.25",
-        "MAC Address": "18:C0:4D:EF:18:5A"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-15T06:57:18",
-      "updatedAt": "2026-06-15T06:57:18"
+      "createdAt": "2026-06-15T06:57:19",
+      "updatedAt": "2026-06-15T06:57:19"
     }
   ]
 }
