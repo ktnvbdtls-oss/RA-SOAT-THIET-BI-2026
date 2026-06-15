@@ -2811,6 +2811,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T03:08:40",
       "updatedAt": "2026-06-15T03:08:40"
+    },
+    {
+      "id": "66a9deb47a2e4318aa64ce7e04897ee2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "VI THỊ LAN",
+        "Mã HRM": "00043018",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-KT7",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 6300 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH319S33G",
+        "CPU": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.48.32",
+        "MAC Address": "88:51:FB:49:37:5F"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20205010559904"
+        }
+      ],
+      "createdAt": "2026-06-15T03:14:56",
+      "updatedAt": "2026-06-15T03:14:56"
     }
   ]
 }
