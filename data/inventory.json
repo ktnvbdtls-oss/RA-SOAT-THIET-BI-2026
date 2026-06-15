@@ -2521,6 +2521,37 @@
       ],
       "createdAt": "2026-06-15T02:25:09",
       "updatedAt": "2026-06-15T02:25:09"
+    },
+    {
+      "id": "f78cc54506384f49b1797ad0f5d95a19",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Vũ Thị Dung",
+        "Mã HRM": "00042327",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-KHKD-DUNGVT",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15,8 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.15",
+        "MAC Address": "10:FF:E0:5B:D6:56"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:26:39",
+      "updatedAt": "2026-06-15T02:26:39"
     }
   ]
 }
