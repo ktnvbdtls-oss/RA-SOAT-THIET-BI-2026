@@ -4515,6 +4515,43 @@
       ],
       "createdAt": "2026-06-15T10:19:53",
       "updatedAt": "2026-06-15T10:19:53"
+    },
+    {
+      "id": "fcddc357fb9b4a1d944dc7aae17bf673",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2463",
+        "Tên Bưu cục": "Bưu điện Kỳ Lừa",
+        "Họ và tên người sử dụng": "Vũ Thị Kim Oanh",
+        "Mã HRM": "00042805",
+        "Bộ phận / Phòng ban": "Đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDCLOC-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.34.20",
+        "MAC Address": "B4:2E:99:45:2B:8D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:22:44",
+      "updatedAt": "2026-06-15T10:22:44"
     }
   ]
 }
