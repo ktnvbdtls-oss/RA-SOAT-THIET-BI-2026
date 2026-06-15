@@ -2779,6 +2779,38 @@
       ],
       "createdAt": "2026-06-15T03:07:14",
       "updatedAt": "2026-06-15T03:07:14"
+    },
+    {
+      "id": "15153c90bb8945b2a30840ae8d27319e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244640",
+        "Tên Bưu cục": "BC3 VĂN MỊCH",
+        "Họ và tên người sử dụng": "TRẦN THỊ ÁNH TUYẾT",
+        "Mã HRM": "00042446",
+        "Bộ phận / Phòng ban": "BC3",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2026-12-01",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T03:08:40",
+      "updatedAt": "2026-06-15T03:08:40"
     }
   ]
 }
