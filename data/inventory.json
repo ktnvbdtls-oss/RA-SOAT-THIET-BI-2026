@@ -2126,6 +2126,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:08:59",
       "updatedAt": "2026-06-15T02:08:59"
+    },
+    {
+      "id": "ce40c90f088e4e36b643ef70b1a9fa61",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Vũ Thị Khang",
+        "Mã HRM": "00042340",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHANGVT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 390",
+        "Năm sản xuất": "",
+        "Serial Number": "G25GC2S",
+        "CPU": "Intel(R) Pentium(R) CPU G630 @ 2.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "576 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.31",
+        "MAC Address": "D4:BE:D9:C2:BF:AB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:11:12",
+      "updatedAt": "2026-06-15T02:11:12"
     }
   ]
 }
