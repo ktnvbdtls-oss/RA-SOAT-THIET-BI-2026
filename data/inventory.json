@@ -3073,6 +3073,48 @@
       ],
       "createdAt": "2026-06-15T07:09:53",
       "updatedAt": "2026-06-15T07:09:53"
+    },
+    {
+      "id": "5d444a94cb354a2785186cdc165991a6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "Hà Thị Viện",
+        "Mã HRM": "00043024",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-01OOJLD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "30W70T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.48.21",
+        "MAC Address": "B8:85:84:B1:47:CC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON F166400",
+          "serial": "NTLA541690"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "TEKI",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:22:04",
+      "updatedAt": "2026-06-15T07:22:04"
     }
   ]
 }
