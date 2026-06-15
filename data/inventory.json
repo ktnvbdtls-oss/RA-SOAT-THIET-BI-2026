@@ -4269,6 +4269,43 @@
       ],
       "createdAt": "2026-06-15T10:08:29",
       "updatedAt": "2026-06-15T10:08:29"
+    },
+    {
+      "id": "f645593c2d7d444181ecd5b10e7a5a03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241900",
+        "Tên Bưu cục": "Đồng Đăng",
+        "Họ và tên người sử dụng": "Lâm Thị Lan",
+        "Mã HRM": "00042614",
+        "Bộ phận / Phòng ban": "BCP Đồng Đăng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2419-BCP01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B08HH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.36.21",
+        "MAC Address": "64:00:6A:01:E5:5E"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "17071B17DF"
+        }
+      ],
+      "createdAt": "2026-06-15T10:06:29",
+      "updatedAt": "2026-06-15T10:06:29"
     }
   ]
 }
