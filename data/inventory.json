@@ -4837,6 +4837,43 @@
       ],
       "createdAt": "2026-06-15T10:55:19",
       "updatedAt": "2026-06-15T10:55:19"
+    },
+    {
+      "id": "03f95243822f4785a838688d79dde451",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241900",
+        "Tên Bưu cục": "BƯU CỤC ĐỒNG ĐĂNG",
+        "Họ và tên người sử dụng": "TRẦN THANH XUÂN",
+        "Mã HRM": "00042616",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN ĐỒNG ĐĂNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2419-KTTH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "310D0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.36.13",
+        "MAC Address": "B8:85:84:B1:45:6B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO M203DN",
+          "serial": "800820085/400200851"
+        }
+      ],
+      "createdAt": "2026-06-15T10:56:12",
+      "updatedAt": "2026-06-15T10:56:12"
     }
   ]
 }
