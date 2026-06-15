@@ -2287,6 +2287,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:17:58",
       "updatedAt": "2026-06-15T02:17:58"
+    },
+    {
+      "id": "c19c3d2512a14e2d94b9952b6f87d27c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241255",
+        "Tên Bưu cục": "Khối văn phòng",
+        "Họ và tên người sử dụng": "Nguyễn Thu Trang",
+        "Mã HRM": "00042322",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VTTCHC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.45.45",
+        "MAC Address": "10:FF:E0:5B:C5:D3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:19:16",
+      "updatedAt": "2026-06-15T02:19:16"
     }
   ]
 }
