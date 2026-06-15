@@ -2552,6 +2552,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:26:39",
       "updatedAt": "2026-06-15T02:26:39"
+    },
+    {
+      "id": "478bb836c2c34f37ba0ed360435cf044",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Đức Huy",
+        "Mã HRM": "00042330",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-KHKD-HUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "624 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.20",
+        "MAC Address": "E0:D5:5E:C5:E2:8C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:40:20",
+      "updatedAt": "2026-06-15T02:40:20"
     }
   ]
 }
