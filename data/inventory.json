@@ -3958,6 +3958,48 @@
       ],
       "createdAt": "2026-06-15T09:48:03",
       "updatedAt": "2026-06-15T09:48:03"
+    },
+    {
+      "id": "e3bb6f14786e48e79d057414d91fc7a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241610",
+        "Tên Bưu cục": "BCP LẠNG SƠN",
+        "Họ và tên người sử dụng": "TRẦN NGỌC TRINH",
+        "Mã HRM": "00117879",
+        "Bộ phận / Phòng ban": "BƯU CỤC VẬN HÀNH - TTVH LẠNG SƠN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-BCP02",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7E05",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "447 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.46.82",
+        "MAC Address": "D8:43:AE:3D:9F:A1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CAN ICES-3(B)/NMB-1(B)",
+          "serial": "22252010555317"
+        }
+      ],
+      "createdAt": "2026-06-15T09:49:19",
+      "updatedAt": "2026-06-15T09:49:19"
     }
   ]
 }
