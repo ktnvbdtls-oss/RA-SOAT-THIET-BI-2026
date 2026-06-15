@@ -4911,6 +4911,37 @@
       ],
       "createdAt": "2026-06-15T10:58:10",
       "updatedAt": "2026-06-15T10:58:10"
+    },
+    {
+      "id": "9997bde91de14e01a22d69af2c921eae",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "NA SẦM",
+        "Mã Bưu cục": "242640",
+        "Tên Bưu cục": "BƯU CỤC VĂN LÃNG",
+        "Họ và tên người sử dụng": "Hoàng Thị Ngọc Huyền",
+        "Mã HRM": "00042744",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC BƯU CỤC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-O4G578H",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN60",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.41.15",
+        "MAC Address": "C0:18:03:BE:FC:45"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T23:49:55",
+      "updatedAt": "2026-06-15T23:49:55"
     }
   ]
 }
