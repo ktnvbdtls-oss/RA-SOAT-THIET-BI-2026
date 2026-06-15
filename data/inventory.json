@@ -3609,6 +3609,48 @@
       ],
       "createdAt": "2026-06-15T09:00:59",
       "updatedAt": "2026-06-15T09:00:59"
+    },
+    {
+      "id": "fd38471fb7654836b77a1f0f39bf7d03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2445",
+        "Tên Xã": "Xã Bình Gia",
+        "Mã Bưu cục": "244580",
+        "Tên Bưu cục": "BCP Bình Gia",
+        "Họ và tên người sử dụng": "Dương Thị Hà",
+        "Mã HRM": "00042422",
+        "Bộ phận / Phòng ban": "NV XLNV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-43RP87U",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1153 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.44.15",
+        "MAC Address": "F0:2F:74:81:DC:86"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T09:06:29",
+      "updatedAt": "2026-06-15T09:06:29"
     }
   ]
 }
