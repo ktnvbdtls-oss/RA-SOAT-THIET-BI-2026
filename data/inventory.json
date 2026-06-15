@@ -2095,6 +2095,37 @@
       ],
       "createdAt": "2026-06-15T02:07:41",
       "updatedAt": "2026-06-15T02:07:41"
+    },
+    {
+      "id": "495b920de1f246f2a06cd8cd3496a9ca",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "24",
+        "Tên Bưu cục": "24",
+        "Họ và tên người sử dụng": "Đặng Việt Hà",
+        "Mã HRM": "00257975",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-KHKD-TRANG01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "3MHXFL2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "19.9 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.18",
+        "MAC Address": "50:9A:4C:1D:EF:20"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:08:59",
+      "updatedAt": "2026-06-15T02:08:59"
     }
   ]
 }
