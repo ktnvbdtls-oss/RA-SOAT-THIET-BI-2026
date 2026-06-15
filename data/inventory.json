@@ -2360,6 +2360,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:20:50",
       "updatedAt": "2026-06-15T02:20:50"
+    },
+    {
+      "id": "044bd3e794664e2a9cf21260f8809024",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Hoàng Thị Kim Anh",
+        "Mã HRM": "00259496",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-C3MBK94",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "DXCNZL2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security, Bkav Pro Internet Security",
+        "IP Address": "10.20.45.17",
+        "MAC Address": "50:9A:4C:39:61:23"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:22:04",
+      "updatedAt": "2026-06-15T02:22:04"
     }
   ]
 }
