@@ -3341,6 +3341,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:10:53",
       "updatedAt": "2026-06-15T08:10:53"
+    },
+    {
+      "id": "73993a5709c14e27afb6b141adb45644",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "Vi Thị Lan",
+        "Mã HRM": "00043018",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411_KT12",
+        "Loại máy": "",
+        "Hãng": "dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "w 10",
+        "Office": "10",
+        "Antivirus": "kas",
+        "IP Address": "10.20.48.73",
+        "MAC Address": "64-00-6A-01-E6-8A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": "NMYA236285"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "22131523408228"
+        }
+      ],
+      "createdAt": "2026-06-15T08:15:03",
+      "updatedAt": "2026-06-15T08:15:03"
     }
   ]
 }
