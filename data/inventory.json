@@ -3651,6 +3651,43 @@
       ],
       "createdAt": "2026-06-15T09:06:29",
       "updatedAt": "2026-06-15T09:06:29"
+    },
+    {
+      "id": "4b2cc9e1bc354056a39fecbfdce6596f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2407",
+        "Tên Xã": "bình gia tân văn",
+        "Mã Bưu cục": "244500",
+        "Tên Bưu cục": "bình gia",
+        "Họ và tên người sử dụng": "Vy Thị Nâng",
+        "Mã HRM": "00042425",
+        "Bộ phận / Phòng ban": "đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BNCT",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Education 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Avira Security",
+        "IP Address": "10.20.44.12",
+        "MAC Address": "B4:2E:99:70:81:53"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp",
+          "serial": "PHFYB10645"
+        }
+      ],
+      "createdAt": "2026-06-15T08:55:31",
+      "updatedAt": "2026-06-15T08:55:31"
     }
   ]
 }
