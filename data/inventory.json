@@ -3857,6 +3857,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T09:30:12",
       "updatedAt": "2026-06-15T09:30:12"
+    },
+    {
+      "id": "720710cb69d54e5396acf8304c3f6b2b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2468",
+        "Tên Bưu cục": "lộc bình",
+        "Họ và tên người sử dụng": "trịnh xuân khanh",
+        "Mã HRM": "00239806",
+        "Bộ phận / Phòng ban": "kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDLB-QUYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.39.21",
+        "MAC Address": "18:C0:4D:EF:17:EF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T09:29:54",
+      "updatedAt": "2026-06-15T09:29:54"
     }
   ]
 }
