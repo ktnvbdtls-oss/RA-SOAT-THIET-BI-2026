@@ -3273,6 +3273,43 @@
       ],
       "createdAt": "2026-06-15T08:05:48",
       "updatedAt": "2026-06-15T08:05:48"
+    },
+    {
+      "id": "676eb758b30045bd8187f45476c7c53f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "Hà Thị Viện",
+        "Mã HRM": "00043024",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-KT11",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.48.106",
+        "MAC Address": "40:16:7E:66:53:3A"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "1526000501315"
+        }
+      ],
+      "createdAt": "2026-06-15T08:04:36",
+      "updatedAt": "2026-06-15T08:04:36"
     }
   ]
 }
