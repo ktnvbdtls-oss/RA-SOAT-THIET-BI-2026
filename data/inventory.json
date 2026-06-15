@@ -3383,6 +3383,43 @@
       ],
       "createdAt": "2026-06-15T08:15:03",
       "updatedAt": "2026-06-15T08:15:03"
+    },
+    {
+      "id": "42da65e310c6402fa845501c5ccb8b69",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Bình Gia",
+        "Tên Xã": "Xã Bình Gia - Tân Văn",
+        "Mã Bưu cục": "244500",
+        "Tên Bưu cục": "Bưu cục Bình Gia",
+        "Họ và tên người sử dụng": "Dương Văn Linh",
+        "Mã HRM": "00273004",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-N7LS642",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, Avira Security",
+        "IP Address": "10.20.44.5",
+        "MAC Address": "18:C0:4D:EF:18:4E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "PHFYB10645"
+        }
+      ],
+      "createdAt": "2026-06-15T08:17:00",
+      "updatedAt": "2026-06-15T08:17:00"
     }
   ]
 }
