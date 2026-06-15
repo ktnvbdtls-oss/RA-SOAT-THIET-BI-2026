@@ -4583,6 +4583,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T10:27:58",
       "updatedAt": "2026-06-15T10:27:58"
+    },
+    {
+      "id": "9edabf0acc2145458ef2402531de8e42",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "Bưu điện phường Kỳ Lừa",
+        "Họ và tên người sử dụng": "Nông Hữu Mạnh",
+        "Mã HRM": "00042692",
+        "Bộ phận / Phòng ban": "sản xuất",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDCLOC-03",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN52",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.91.12",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T10:33:48",
+      "updatedAt": "2026-06-15T10:33:48"
     }
   ]
 }
