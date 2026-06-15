@@ -4116,6 +4116,39 @@
       ],
       "createdAt": "2026-06-15T10:03:49",
       "updatedAt": "2026-06-15T10:03:49"
+    },
+    {
+      "id": "0a6dda3cbddf48978514744a370b5636",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "20",
+        "Tên Tỉnh": "LẠNG SƠN",
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "NA SẦM",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "BƯU CỤC VĂN LÃNG",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân Kiều",
+        "Mã HRM": "00042613",
+        "Bộ phận / Phòng ban": "Kiểm soát viên",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "MÁY ĐẾM TIỀN",
+        "Loại thiết bị": "",
+        "Hãng": "BALION",
+        "Model": "NH-608S",
+        "Năm sản xuất": "",
+        "Serial Number": "2000080039",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T10:09:59",
+      "updatedAt": "2026-06-15T10:09:59"
     }
   ]
 }
