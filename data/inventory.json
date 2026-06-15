@@ -3735,6 +3735,53 @@
       ],
       "createdAt": "2026-06-15T09:17:42",
       "updatedAt": "2026-06-15T09:17:42"
+    },
+    {
+      "id": "3f24aae45dfc4f97a8a26a2415a0a445",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "Hoàng Mạnh Cầm",
+        "Mã HRM": "00118047",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-KT9",
+        "Loại máy": "OTIPLEX 3020",
+        "Hãng": "DELL",
+        "Model": "OTIPLEX 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "JBXBH32",
+        "CPU": "CORE I3 4150T",
+        "RAM": "4GB",
+        "Ổ cứng": "240",
+        "Hệ điều hành": "W 7",
+        "Office": "10",
+        "Antivirus": "KAS",
+        "IP Address": "10.20.48.45",
+        "MAC Address": "F8-BC-12-A6-1B-77"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": "MQCA323266"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J183400283"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T09:20:36",
+      "updatedAt": "2026-06-15T09:20:36"
     }
   ]
 }
