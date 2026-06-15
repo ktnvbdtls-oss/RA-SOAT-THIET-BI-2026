@@ -4647,6 +4647,53 @@
       "attachments": [],
       "createdAt": "2026-06-15T10:37:05",
       "updatedAt": "2026-06-15T10:37:05"
+    },
+    {
+      "id": "5384771b74394bfd805d798f0d0db37e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241900",
+        "Tên Bưu cục": "Bưu cục Đồng Đăng",
+        "Họ và tên người sử dụng": "Trần Thanh Xuân",
+        "Mã HRM": "00042616",
+        "Bộ phận / Phòng ban": "Bưu điện Đồng Đăng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2419-GD02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN4Y",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.36.16",
+        "MAC Address": "C0:18:03:BE:FE:93"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canone2009",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD62142-D0PF00EZ",
+          "serial": "00074DB2AA9E/6433DBC03897"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:37:59",
+      "updatedAt": "2026-06-15T10:37:59"
     }
   ]
 }
