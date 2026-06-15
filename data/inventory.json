@@ -4473,6 +4473,48 @@
       ],
       "createdAt": "2026-06-15T10:14:59",
       "updatedAt": "2026-06-15T10:14:59"
+    },
+    {
+      "id": "fb7dc2e795a643049adfea3a9d2ee316",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241610",
+        "Tên Bưu cục": "BCP LANG SON",
+        "Họ và tên người sử dụng": "NGUYEN PHUONG UYEN",
+        "Mã HRM": "00266885",
+        "Bộ phận / Phòng ban": "BC VAN HANH - TTVH LANG SON",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-BCP03",
+        "Loại máy": "pc",
+        "Hãng": "DNA",
+        "Model": "PENTUM R g3220",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "PENTUM R g3220",
+        "RAM": "4GB",
+        "Ổ cứng": "250",
+        "Hệ điều hành": "W 7",
+        "Office": "10",
+        "Antivirus": "KAS",
+        "IP Address": "10.20.46.81",
+        "MAC Address": "FC-AA-14-A2-F4-DB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP 2900",
+          "serial": "NMYA374745"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:19:53",
+      "updatedAt": "2026-06-15T10:19:53"
     }
   ]
 }
