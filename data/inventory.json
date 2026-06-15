@@ -3572,6 +3572,43 @@
       ],
       "createdAt": "2026-06-15T08:52:38",
       "updatedAt": "2026-06-15T08:52:38"
+    },
+    {
+      "id": "5f57f813aac74f7b90ea66a4b61a5ca7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Buu cuc khai thac",
+        "Họ và tên người sử dụng": "Phan Ngoc Bich",
+        "Mã HRM": "00100773",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-KT5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2YLC0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.48.13",
+        "MAC Address": "B8:85:84:B1:00:A0"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20214010557071"
+        }
+      ],
+      "createdAt": "2026-06-15T09:00:59",
+      "updatedAt": "2026-06-15T09:00:59"
     }
   ]
 }
