@@ -2219,6 +2219,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:11:25",
       "updatedAt": "2026-06-15T02:11:25"
+    },
+    {
+      "id": "badeda6b27a141f5b975df9f3543e0a2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Lê Thu Hương",
+        "Mã HRM": "00042336",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-EHPO490",
+        "Loại máy": "de",
+        "Hãng": "dell",
+        "Model": "otiplex 3060",
+        "Năm sản xuất": "2020",
+        "Serial Number": "",
+        "CPU": "core i5 8500",
+        "RAM": "4GB",
+        "Ổ cứng": "620",
+        "Hệ điều hành": "w10",
+        "Office": "10",
+        "Antivirus": "BKAV",
+        "IP Address": "10.20.45.27",
+        "MAC Address": "8C-EC-4B-D2-DF-02"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 3300",
+          "serial": "LQHA330474"
+        }
+      ],
+      "createdAt": "2026-06-15T02:14:21",
+      "updatedAt": "2026-06-15T02:14:21"
     }
   ]
 }
