@@ -4217,6 +4217,58 @@
       "attachments": [],
       "createdAt": "2026-06-13T10:48:10",
       "updatedAt": "2026-06-13T10:48:10"
+    },
+    {
+      "id": "ba493ac8353740f191966f1bcd5b7c52",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "BƯU ĐIỆN KHU VỰC KỲ LỪA",
+        "Họ và tên người sử dụng": "MAI THỊ TRÀ",
+        "Mã HRM": "00042905",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN KHU VỰC KỲ LỪA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QMH0EUJ",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "HPXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.34.18",
+        "MAC Address": "F8:BC:12:A6:16:F7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:08:29",
+      "updatedAt": "2026-06-15T10:08:29"
     }
   ]
 }
