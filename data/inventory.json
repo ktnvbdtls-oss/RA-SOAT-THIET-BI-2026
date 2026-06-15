@@ -3131,6 +3131,37 @@
       ],
       "createdAt": "2026-06-15T07:47:07",
       "updatedAt": "2026-06-15T07:47:07"
+    },
+    {
+      "id": "16bd77a4fb0e452997cd35dee31ca66b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244500",
+        "Tên Bưu cục": "BÌNH GIA",
+        "Họ và tên người sử dụng": "HOÀNG THỊ HÀ",
+        "Mã HRM": "00251606",
+        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDBG-GD01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "10.20.44.25",
+        "MAC Address": "18:C0:4D:EF:18:5A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T07:56:10",
+      "updatedAt": "2026-06-15T07:56:10"
     }
   ]
 }
