@@ -2484,6 +2484,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:23:16",
       "updatedAt": "2026-06-15T02:23:16"
+    },
+    {
+      "id": "0fea2f5fd2454c9b92c79f71c2104a4e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "24",
+        "Tên Bưu cục": "BĐT Lạng Sơn",
+        "Họ và tên người sử dụng": "Chu Thị Hải Yến",
+        "Mã HRM": "00043025",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-KTNV-HUYENP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "JMB7H82",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.45.34",
+        "MAC Address": "8C:EC:4B:84:4B:3D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LPB121dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:25:09",
+      "updatedAt": "2026-06-15T02:25:09"
     }
   ]
 }
