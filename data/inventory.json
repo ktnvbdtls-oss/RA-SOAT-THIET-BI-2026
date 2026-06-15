@@ -3535,6 +3535,43 @@
       ],
       "createdAt": "2026-06-15T08:24:18",
       "updatedAt": "2026-06-15T08:24:18"
+    },
+    {
+      "id": "687a8367026f4a3c9f403c8bbbe8c7ff",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2429",
+        "Tên Xã": "Bưu điện xã Hội Hoan - Văn Lãng",
+        "Mã Bưu cục": "242750",
+        "Tên Bưu cục": "Hội Hoan",
+        "Họ và tên người sử dụng": "Hoàng Thị Sáu",
+        "Mã HRM": "00042603",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TTMDGGM",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN62",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "C0:18:03:BE:FC:0A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp laserjet pro m203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:52:38",
+      "updatedAt": "2026-06-15T08:52:38"
     }
   ]
 }
