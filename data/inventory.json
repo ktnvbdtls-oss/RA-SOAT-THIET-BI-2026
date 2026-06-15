@@ -2932,6 +2932,43 @@
       ],
       "createdAt": "2026-06-15T03:41:08",
       "updatedAt": "2026-06-15T03:41:08"
+    },
+    {
+      "id": "db13ebe8d8b34780871b70c73108e704",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "TRIỆU VĂN SỸ",
+        "Mã HRM": "00042311",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24TRIEUSY",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D23",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.54",
+        "MAC Address": "04:7C:16:3D:E2:49"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T04:03:25",
+      "updatedAt": "2026-06-15T04:03:25"
     }
   ]
 }
