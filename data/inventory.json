@@ -3031,6 +3031,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:05:11",
       "updatedAt": "2026-06-15T07:05:11"
+    },
+    {
+      "id": "0580647493d942f1b90e0b191815d448",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "Hoàng Thanh Hữu",
+        "Mã HRM": "00107045",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-4TS560H",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231M1R",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.48.16",
+        "MAC Address": "F8:ED:FC:6A:70:82"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": "354C25A0177"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "22131523408215"
+        }
+      ],
+      "createdAt": "2026-06-15T07:09:53",
+      "updatedAt": "2026-06-15T07:09:53"
     }
   ]
 }
