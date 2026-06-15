@@ -4942,6 +4942,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T23:49:55",
       "updatedAt": "2026-06-15T23:49:55"
+    },
+    {
+      "id": "43d6fe74e0ef4c0b9df6c2f0f608b60c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "NA SẦM",
+        "Mã Bưu cục": "242640",
+        "Tên Bưu cục": "BƯU CỤC VĂN LÃNG",
+        "Họ và tên người sử dụng": "Hoàng Thị Ngọc Huyền",
+        "Mã HRM": "00042744",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC BƯU CỤC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5H",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "702 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.41.11",
+        "MAC Address": "C0:18:03:BE:F9:3C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON L11121E",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2208",
+          "serial": "DS2208-SR000072ZWW"
+        }
+      ],
+      "createdAt": "2026-06-15T23:55:58",
+      "updatedAt": "2026-06-15T23:55:58"
     }
   ]
 }
