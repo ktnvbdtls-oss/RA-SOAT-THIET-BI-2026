@@ -2422,6 +2422,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:22:16",
       "updatedAt": "2026-06-15T02:22:16"
+    },
+    {
+      "id": "e05a0efb12d94596bd5ddec8b20c8c2d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Thu Hoài",
+        "Mã HRM": "00247436",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-HC3E4BO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 390",
+        "Năm sản xuất": "",
+        "Serial Number": "HYQ0JS1",
+        "CPU": "Intel(R) Pentium(R) CPU G630 @ 2.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "689 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.22",
+        "MAC Address": "D4:BE:D9:B8:F5:C6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:22:31",
+      "updatedAt": "2026-06-15T02:22:31"
     }
   ]
 }
