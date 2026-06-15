@@ -3310,6 +3310,37 @@
       ],
       "createdAt": "2026-06-15T08:04:36",
       "updatedAt": "2026-06-15T08:04:36"
+    },
+    {
+      "id": "5468ee4b30e340599a7c28e40cd48761",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2427",
+        "Tên Xã": "Bưu điện Na Sầm",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "Bưu cục Văn Lãng",
+        "Họ và tên người sử dụng": "Hoàng Mạnh Tiến",
+        "Mã HRM": "00042332",
+        "Bộ phận / Phòng ban": "Giám đốc Bưu điện xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAPTOP-T5S6GOD5",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15s-fq2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD2194YCT",
+        "CPU": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "E8:FB:1C:C3:DC:53"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T08:10:53",
+      "updatedAt": "2026-06-15T08:10:53"
     }
   ]
 }
