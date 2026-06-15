@@ -2329,6 +2329,37 @@
       ],
       "createdAt": "2026-06-15T02:19:16",
       "updatedAt": "2026-06-15T02:19:16"
+    },
+    {
+      "id": "1bda4838769f4cccbdbd6c82cfe03b12",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Nga Linh",
+        "Mã HRM": "00105234",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-TCHC-LINHNN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "GXN8J23",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.47",
+        "MAC Address": "E4:54:E8:98:59:D3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:20:50",
+      "updatedAt": "2026-06-15T02:20:50"
     }
   ]
 }
