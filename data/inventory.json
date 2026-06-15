@@ -3688,6 +3688,53 @@
       ],
       "createdAt": "2026-06-15T08:55:34",
       "updatedAt": "2026-06-15T08:55:34"
+    },
+    {
+      "id": "2d77793a5c2f439f84ecd6661f740014",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247270",
+        "Tên Bưu cục": "Bưu Cục Na Dương",
+        "Họ và tên người sử dụng": "La Thị Thanh Thìn",
+        "Mã HRM": "00042833",
+        "Bộ phận / Phòng ban": "Nhân viên KDĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-HHH1IU5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "6WFVZL2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1050 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.39.67",
+        "MAC Address": "50:9A:4C:33:DB:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T09:17:42",
+      "updatedAt": "2026-06-15T09:17:42"
     }
   ]
 }
