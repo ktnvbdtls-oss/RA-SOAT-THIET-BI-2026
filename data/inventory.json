@@ -3162,6 +3162,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:56:10",
       "updatedAt": "2026-06-15T07:56:10"
+    },
+    {
+      "id": "54a7d26debee4789877eabbdf63b90f9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244500",
+        "Tên Bưu cục": "Bình Gia",
+        "Họ và tên người sử dụng": "Hà Huyền Trang",
+        "Mã HRM": "00251608",
+        "Bộ phận / Phòng ban": "KSV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDBG-BCP02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN58",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.44.16",
+        "MAC Address": "C0:18:03:BE:FE:58"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203d",
+          "serial": "VNP4D02708"
+        }
+      ],
+      "createdAt": "2026-06-15T07:58:05",
+      "updatedAt": "2026-06-15T07:58:05"
     }
   ]
 }
