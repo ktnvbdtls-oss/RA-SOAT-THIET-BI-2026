@@ -4186,6 +4186,48 @@
       ],
       "createdAt": "2026-06-15T10:06:51",
       "updatedAt": "2026-06-15T10:06:51"
+    },
+    {
+      "id": "9a6b22f1b3d540acbbe265dd4576da66",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241610",
+        "Tên Bưu cục": "BCP LANG SON",
+        "Họ và tên người sử dụng": "HOANG THI MAI ANH",
+        "Mã HRM": "00248851",
+        "Bộ phận / Phòng ban": "BUU CUC VAN HANH - TTVH LANG SON",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5VQ26L4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "31RB0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security",
+        "IP Address": "10.20.46.83",
+        "MAC Address": "B8:85:84:B1:47:46"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP 2900",
+          "serial": "MQCA507486"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CAN ICES-3(B)/NMB-3(B)",
+          "serial": "21210010553089"
+        }
+      ],
+      "createdAt": "2026-06-13T10:48:08",
+      "updatedAt": "2026-06-13T10:48:08"
     }
   ]
 }
