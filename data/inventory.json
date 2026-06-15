@@ -4727,6 +4727,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T10:40:22",
       "updatedAt": "2026-06-15T10:40:22"
+    },
+    {
+      "id": "fdae0a3b9b48423885eb70c577db6230",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241900",
+        "Tên Bưu cục": "BƯU CỤC ĐỒNG ĐĂNG",
+        "Họ và tên người sử dụng": "TRẦN THANH XUÂN",
+        "Mã HRM": "00042616",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN ĐỒNG ĐĂNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "31380T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.36.15",
+        "MAC Address": "B8:85:84:B1:45:E3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": "MQCA634148"
+        },
+        {
+          "type": "ups",
+          "name": "SANTAK",
+          "serial": "130328-8763006"
+        }
+      ],
+      "createdAt": "2026-06-15T10:47:51",
+      "updatedAt": "2026-06-15T10:47:51"
     }
   ]
 }
