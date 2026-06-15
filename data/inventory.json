@@ -2393,41 +2393,35 @@
       "updatedAt": "2026-06-15T02:22:04"
     },
     {
-      "id": "7fcbfc287bae46168f7b0f1b939f3f2b",
+      "id": "2d96bdb962044fad969b0b495cdd4e20",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "241225",
-        "Tên Bưu cục": "Văn phòng BĐT",
-        "Họ và tên người sử dụng": "Lê Thị Minh Trang",
-        "Mã HRM": "00042333",
-        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "KHKD-LETRANG",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3070",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "3DFZ033",
-        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
-        "RAM": "3,8 GB",
-        "Ổ cứng": "447 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.20.45.16",
-        "MAC Address": "E4:54:E8:98:85:69"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon",
-          "serial": "LBP251dw"
-        }
-      ],
-      "createdAt": "2026-06-15T02:22:14",
-      "updatedAt": "2026-06-15T02:22:14"
+      "attachments": [],
+      "createdAt": "2026-06-15T02:22:16",
+      "updatedAt": "2026-06-15T02:22:16"
     }
   ]
 }
