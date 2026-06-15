@@ -2583,6 +2583,53 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:40:20",
       "updatedAt": "2026-06-15T02:40:20"
+    },
+    {
+      "id": "aa02145272274bfb9f147651ee402ead",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "ttvh",
+        "Họ và tên người sử dụng": "TRẦN THỊ HÀ",
+        "Mã HRM": "00043013",
+        "Bộ phận / Phòng ban": "Bưu Cục Khai Thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTKTVCM",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231M17",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.48.18",
+        "MAC Address": "F8:ED:FC:6A:70:96"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": "NDMA313737"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J183400091"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA CR2278",
+          "serial": "22260523419642"
+        }
+      ],
+      "createdAt": "2026-06-15T02:45:16",
+      "updatedAt": "2026-06-15T02:45:16"
     }
   ]
 }
