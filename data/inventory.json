@@ -3888,6 +3888,39 @@
       "attachments": [],
       "createdAt": "2026-06-15T09:29:54",
       "updatedAt": "2026-06-15T09:29:54"
+    },
+    {
+      "id": "faeea7877ebe4d4e8fb33ab4964924ad",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "000024",
+        "Tên Tỉnh": "LẠNG SƠN",
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "BƯU ĐIỆN NA SẦM",
+        "Mã Bưu cục": "202500",
+        "Tên Bưu cục": "VĂN LÃNG",
+        "Họ và tên người sử dụng": "HOÀNG VĂN HỢI",
+        "Mã HRM": "00275704",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "MÁY IN HÓA ĐƠN TIỀN ĐIỆN",
+        "Loại thiết bị": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T09:47:52",
+      "updatedAt": "2026-06-15T09:47:52"
     }
   ]
 }
