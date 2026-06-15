@@ -4800,6 +4800,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T10:49:22",
       "updatedAt": "2026-06-15T10:49:22"
+    },
+    {
+      "id": "a9b72cde193c479fa5e7fee632ee1924",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "NA SẦM",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "BƯU CỤC VĂN LÃNG",
+        "Họ và tên người sử dụng": "Hoàng Thị Như",
+        "Mã HRM": "00215041",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-IKLC8IA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "31MD0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.41.7",
+        "MAC Address": "B8:85:84:AB:0D:14"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON L11121E",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:55:19",
+      "updatedAt": "2026-06-15T10:55:19"
     }
   ]
 }
