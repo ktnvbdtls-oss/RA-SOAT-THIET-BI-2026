@@ -4000,6 +4000,43 @@
       ],
       "createdAt": "2026-06-15T09:49:19",
       "updatedAt": "2026-06-15T09:49:19"
+    },
+    {
+      "id": "cca7a9d470394c76b4aa5a9e6869c36b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "243170",
+        "Tên Bưu cục": "BCP Tràng Định",
+        "Họ và tên người sử dụng": "Nguyễn Thị Lê Lan",
+        "Mã HRM": "00042649",
+        "Bộ phận / Phòng ban": "BCVH Tràng Định, Lạng Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-O6PHVD0",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "316D0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.40.12",
+        "MAC Address": "B8:85:84:B1:46:C3"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Model:1452g",
+          "serial": "17054B285C"
+        }
+      ],
+      "createdAt": "2026-06-15T09:50:29",
+      "updatedAt": "2026-06-15T09:50:29"
     }
   ]
 }
