@@ -3782,6 +3782,48 @@
       ],
       "createdAt": "2026-06-15T09:20:36",
       "updatedAt": "2026-06-15T09:20:36"
+    },
+    {
+      "id": "0a53efa99535481ca51134cfe399cf37",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2427",
+        "Tên Xã": "BƯU ĐIỆN NA SẦM",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "VĂN LÃNG",
+        "Họ và tên người sử dụng": "HOÀNG VĂN HỢI",
+        "Mã HRM": "00275704",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDVL-01",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180467",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET P1005",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": "17054B280A"
+        }
+      ],
+      "createdAt": "2026-06-15T09:22:24",
+      "updatedAt": "2026-06-15T09:22:24"
     }
   ]
 }
