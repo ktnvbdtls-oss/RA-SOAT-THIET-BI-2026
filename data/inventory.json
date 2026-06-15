@@ -3084,6 +3084,53 @@
       ],
       "createdAt": "2026-06-15T07:22:04",
       "updatedAt": "2026-06-15T07:22:04"
+    },
+    {
+      "id": "0b8be694dbc64c2bbd7c9f4759cb3dc8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Bưu cục khai thác",
+        "Họ và tên người sử dụng": "Trần Thị Hà",
+        "Mã HRM": "00043013",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411_KT2",
+        "Loại máy": "optiplex 3046",
+        "Hãng": "dell",
+        "Model": "",
+        "Năm sản xuất": "2019",
+        "Serial Number": "48N3VG2",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "500GB",
+        "Hệ điều hành": "w7",
+        "Office": "10",
+        "Antivirus": "kas",
+        "IP Address": "10.20.48.230",
+        "MAC Address": "18-66-DA-3D-6D-66"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": "NDMA331270"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J183400232"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:47:07",
+      "updatedAt": "2026-06-15T07:47:07"
     }
   ]
 }
