@@ -1953,6 +1953,43 @@
       ],
       "createdAt": "2026-06-14T09:59:29",
       "updatedAt": "2026-06-14T09:59:29"
+    },
+    {
+      "id": "096420cf588443ac8c3db6b5d426f9ad",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2473",
+        "Tên Xã": "Đình Lập",
+        "Mã Bưu cục": "247500",
+        "Tên Bưu cục": "Xã Đình Lập",
+        "Họ và tên người sử dụng": "Hoàng Minh Tuân",
+        "Mã HRM": "00105239",
+        "Bộ phận / Phòng ban": "Đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DLAP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5F",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.37.11",
+        "MAC Address": "C0:18:03:BE:FC:88"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900/canon-L11121E",
+          "serial": "MNYA234925"
+        }
+      ],
+      "createdAt": "2026-06-15T00:55:57",
+      "updatedAt": "2026-06-15T00:55:57"
     }
   ]
 }
