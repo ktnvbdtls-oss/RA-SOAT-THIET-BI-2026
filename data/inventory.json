@@ -3420,6 +3420,37 @@
       ],
       "createdAt": "2026-06-15T08:17:00",
       "updatedAt": "2026-06-15T08:17:00"
+    },
+    {
+      "id": "c574151d7a264183b23cb0330de7d8c0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2427",
+        "Tên Xã": "Bưu điện Na Sầm",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "Bưu cục Văn Lãng",
+        "Họ và tên người sử dụng": "Hoàng Mạnh Tiến",
+        "Mã HRM": "00042332",
+        "Bộ phận / Phòng ban": "Giám đốc Bưu điện xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-I9M3MR3",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZZS3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security",
+        "IP Address": "192.168.1.18",
+        "MAC Address": "58:FB:84:03:C9:88"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T08:20:09",
+      "updatedAt": "2026-06-15T08:20:09"
     }
   ]
 }
