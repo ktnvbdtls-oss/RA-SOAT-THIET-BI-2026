@@ -2058,6 +2058,43 @@
       ],
       "createdAt": "2026-06-15T02:06:29",
       "updatedAt": "2026-06-15T02:06:29"
+    },
+    {
+      "id": "593d9b55e05c496e96774d9ba06a4ad6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Hoàng Phương Thảo",
+        "Mã HRM": "00042600",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-TCKT-ANHVTN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "1377 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.45.76",
+        "MAC Address": "74:56:3C:92:7B:10"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro M203dn/HP",
+          "serial": "VNC3F14751"
+        }
+      ],
+      "createdAt": "2026-06-15T02:07:41",
+      "updatedAt": "2026-06-15T02:07:41"
     }
   ]
 }
