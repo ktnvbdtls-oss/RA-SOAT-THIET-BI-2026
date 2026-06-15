@@ -2885,6 +2885,53 @@
       ],
       "createdAt": "2026-06-15T03:24:06",
       "updatedAt": "2026-06-15T03:24:06"
+    },
+    {
+      "id": "a470b3e9c4314632bdca080b2db2cfac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Buu cuc khai thac",
+        "Họ và tên người sử dụng": "LOC BACH NGOC",
+        "Mã HRM": "00100770",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-KT3",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.48.17",
+        "MAC Address": "E0:D5:5E:C5:DE:2E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": "NDMA446428"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": "350C25A0013"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "22131523419623"
+        }
+      ],
+      "createdAt": "2026-06-15T03:41:08",
+      "updatedAt": "2026-06-15T03:41:08"
     }
   ]
 }
