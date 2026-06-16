@@ -5277,6 +5277,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:31:16",
       "updatedAt": "2026-06-16T04:31:16"
+    },
+    {
+      "id": "6ce906de6c9d4daf95d1e20bd7ce31b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2432",
+        "Tên Xã": "Xã Lộc Bình",
+        "Mã Bưu cục": "246800",
+        "Tên Bưu cục": "Bưu điện Lộc Bình",
+        "Họ và tên người sử dụng": "Lộc Thúy Hà",
+        "Mã HRM": "00105229",
+        "Bộ phận / Phòng ban": "Đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDLB-HALT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN7F",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.39.22",
+        "MAC Address": "C0:18:03:BE:FC:ED"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T06:47:23",
+      "updatedAt": "2026-06-16T06:47:23"
     }
   ]
 }
