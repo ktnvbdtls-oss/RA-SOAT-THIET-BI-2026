@@ -5604,6 +5604,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T09:11:04",
       "updatedAt": "2026-06-16T09:11:04"
+    },
+    {
+      "id": "273ac6947a084f5891b129a013039e6e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "BƯU ĐIỆN XÃ HỮU LŨNG",
+        "Mã Bưu cục": "246320",
+        "Tên Bưu cục": "BCVH",
+        "Họ và tên người sử dụng": "ĐỖ THỊ MAI",
+        "Mã HRM": "00042673",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-T2S8R36",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN7D",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.38.32",
+        "MAC Address": "C0:18:03:BE:FE:52"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP 6030",
+          "serial": "NTLA543605"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T09:50:54",
+      "updatedAt": "2026-06-16T09:50:54"
     }
   ]
 }
