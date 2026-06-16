@@ -5761,6 +5761,53 @@
       ],
       "createdAt": "2026-06-16T10:08:20",
       "updatedAt": "2026-06-16T10:08:20"
+    },
+    {
+      "id": "257e56578a024b4ba2054ad80c17505f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2461",
+        "Tên Xã": "xã hữu lũng",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "bưu cục vận hành hữu lũng",
+        "Họ và tên người sử dụng": "nguyễn thu linh",
+        "Mã HRM": "00269351",
+        "Bộ phận / Phòng ban": "bưu cục chấp nhận",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-313UHN7",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.38.18",
+        "MAC Address": "E0:D5:5E:C5:E5:5E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra ZD620",
+          "serial": "D3J204201717"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra DS22",
+          "serial": "2225652340438"
+        }
+      ],
+      "createdAt": "2026-06-16T10:11:49",
+      "updatedAt": "2026-06-16T10:11:49"
     }
   ]
 }
