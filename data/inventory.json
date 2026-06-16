@@ -5677,6 +5677,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T09:53:28",
       "updatedAt": "2026-06-16T09:53:28"
+    },
+    {
+      "id": "0247d0b7a46a43bb8b19f6f9fb282024",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242110",
+        "Tên Bưu cục": "HỮU NGHỊ",
+        "Họ và tên người sử dụng": "HOÀNG THỊ HỒNG NHUNG",
+        "Mã HRM": "00118045",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2419-HUUNGHI02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "3M9XFL2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.60.11",
+        "MAC Address": "50:9A:4C:1D:EF:3E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "NFFA009646"
+        }
+      ],
+      "createdAt": "2026-06-16T09:53:37",
+      "updatedAt": "2026-06-16T09:53:37"
     }
   ]
 }
