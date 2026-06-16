@@ -5204,6 +5204,48 @@
       ],
       "createdAt": "2026-06-16T04:09:47",
       "updatedAt": "2026-06-16T04:09:47"
+    },
+    {
+      "id": "1ae7530586af48baaf7cb7f774e4966a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "BC2 HỮU LŨNG",
+        "Họ và tên người sử dụng": "ĐÀO THỊ THỦY",
+        "Mã HRM": "00266969",
+        "Bộ phận / Phòng ban": "BC GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-L6DIO8F",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221LJ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.38.12",
+        "MAC Address": "10:B6:76:9E:22:C0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T04:24:10",
+      "updatedAt": "2026-06-16T04:24:10"
     }
   ]
 }
