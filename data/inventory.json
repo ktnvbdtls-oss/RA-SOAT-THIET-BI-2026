@@ -5370,6 +5370,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:20:36",
       "updatedAt": "2026-06-16T07:20:36"
+    },
+    {
+      "id": "c464d30278a44e25a81c1402eab41db4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2443",
+        "Tên Xã": "Bưu Điện Xã Hữu Lũng - Tuấn Sơn",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "Bưu Cực Trung Tâm",
+        "Họ và tên người sử dụng": "Triệu Thị Quỳnh",
+        "Mã HRM": "00222703",
+        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, 360 Total Security",
+        "IP Address": "10.20.38.16",
+        "MAC Address": "B4:2E:99:D8:B4:05"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:22:24",
+      "updatedAt": "2026-06-16T07:22:24"
     }
   ]
 }
