@@ -5463,6 +5463,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:37:38",
       "updatedAt": "2026-06-16T07:37:38"
+    },
+    {
+      "id": "a7ea2293a8d840b889359c3282deccce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2443",
+        "Tên Xã": "",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "Hữu Lũng",
+        "Họ và tên người sử dụng": "Triệu Thúy Hoài",
+        "Mã HRM": "00222697",
+        "Bộ phận / Phòng ban": "Kinh tế tổng hợp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CT76ES3",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZY50T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.38.43",
+        "MAC Address": "00:4E:01:C2:23:4F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:46:29",
+      "updatedAt": "2026-06-16T07:46:29"
     }
   ]
 }
