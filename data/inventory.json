@@ -5536,6 +5536,43 @@
       ],
       "createdAt": "2026-06-16T08:13:42",
       "updatedAt": "2026-06-16T08:13:42"
+    },
+    {
+      "id": "9f147f9d074b4030bb59a3b57a54024f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241694",
+        "Tên Bưu cục": "VP TTKTVC",
+        "Họ và tên người sử dụng": "VŨ THỊ THANH HIỀN",
+        "Mã HRM": "00042979",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5HTMDI4",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7E05",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "447 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.48.35",
+        "MAC Address": "D8:43:AE:3D:9F:95"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET1020",
+          "serial": "CNCO854258"
+        }
+      ],
+      "createdAt": "2026-06-16T08:50:56",
+      "updatedAt": "2026-06-16T08:50:56"
     }
   ]
 }
