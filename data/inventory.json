@@ -5401,6 +5401,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:22:24",
       "updatedAt": "2026-06-16T07:22:24"
+    },
+    {
+      "id": "4575b4620a744a62a1672b0101c794db",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Xã Hữu Lũng",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "Bưu điện Hữu Lũng",
+        "Họ và tên người sử dụng": "Phùng Hương Thảo",
+        "Mã HRM": "00269350",
+        "Bộ phận / Phòng ban": "Chăm sóc khách hàng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUONGTHAOHL",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181110",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.38.29",
+        "MAC Address": "50:AF:73:38:1F:AB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:33:33",
+      "updatedAt": "2026-06-16T07:33:33"
     }
   ]
 }
