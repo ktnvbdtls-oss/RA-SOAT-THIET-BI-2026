@@ -5432,6 +5432,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:33:33",
       "updatedAt": "2026-06-16T07:33:33"
+    },
+    {
+      "id": "202a8b864a144b3495dd5511ed4f890d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2461",
+        "Tên Xã": "",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "bưu điện hữu lũng",
+        "Họ và tên người sử dụng": "Đinh Trang Chi",
+        "Mã HRM": "00042670",
+        "Bộ phận / Phòng ban": "CSKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-BILK6BP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "31L50T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.38.36",
+        "MAC Address": "B8:85:84:AA:FC:06"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:37:38",
+      "updatedAt": "2026-06-16T07:37:38"
     }
   ]
 }
