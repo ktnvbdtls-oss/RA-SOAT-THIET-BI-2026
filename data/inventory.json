@@ -5573,6 +5573,37 @@
       ],
       "createdAt": "2026-06-16T08:50:56",
       "updatedAt": "2026-06-16T08:50:56"
+    },
+    {
+      "id": "d9cbd451fac740a381b47567018ec017",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2434",
+        "Tên Xã": "LOI BAC",
+        "Mã Bưu cục": "247300",
+        "Tên Bưu cục": "LOI BAC",
+        "Họ và tên người sử dụng": "TRINH THI THAO",
+        "Mã HRM": "00270357",
+        "Bộ phận / Phòng ban": "LOI BAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FFDAR7V",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.26",
+        "MAC Address": "F0:2F:74:81:DC:91"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T09:11:04",
+      "updatedAt": "2026-06-16T09:11:04"
     }
   ]
 }
