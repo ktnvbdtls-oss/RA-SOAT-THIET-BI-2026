@@ -5094,6 +5094,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:36:03",
       "updatedAt": "2026-06-16T02:36:03"
+    },
+    {
+      "id": "264f0ddcf0eb40d5a1543e96affb4fb0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "240100",
+        "Tên Bưu cục": "Trung tâm vận hành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Huế",
+        "Mã HRM": "00042338",
+        "Bộ phận / Phòng ban": "Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2411-GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Anti-Virus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.48.24",
+        "MAC Address": "E0:D5:5E:FC:E3:3B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP6030",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T03:42:17",
+      "updatedAt": "2026-06-16T03:42:17"
     }
   ]
 }
