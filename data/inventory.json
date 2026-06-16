@@ -4984,6 +4984,53 @@
       ],
       "createdAt": "2026-06-15T23:55:58",
       "updatedAt": "2026-06-15T23:55:58"
+    },
+    {
+      "id": "15a74af45c944170b811cdd41c859f4e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242110",
+        "Tên Bưu cục": "bưu cục Hữu Nghị",
+        "Họ và tên người sử dụng": "Hoàng Thị Hồng Nhung",
+        "Mã HRM": "00118045",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2419-HUUNGHI01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "3MBWFL2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.60.16",
+        "MAC Address": "50:9A:4C:1D:EF:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon lbp2900",
+          "serial": "mqca643539"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "honey well",
+          "serial": "20309b1d90"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "1708300503806"
+        }
+      ],
+      "createdAt": "2026-06-16T01:16:01",
+      "updatedAt": "2026-06-16T01:16:01"
     }
   ]
 }
