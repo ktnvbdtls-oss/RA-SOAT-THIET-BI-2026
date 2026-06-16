@@ -5063,6 +5063,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:18:08",
       "updatedAt": "2026-06-16T01:18:08"
+    },
+    {
+      "id": "3cad1d9569594de7abb4cf79e45ea8ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "24257",
+        "Tên Xã": "NA SẦM",
+        "Mã Bưu cục": "242500",
+        "Tên Bưu cục": "BƯU CỤC VĂN LÃNG",
+        "Họ và tên người sử dụng": "Hoàng Thị Như",
+        "Mã HRM": "00215041",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CT67B4I",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "30470T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.41.5",
+        "MAC Address": "B8:85:84:AB:0B:C1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T02:36:03",
+      "updatedAt": "2026-06-16T02:36:03"
     }
   ]
 }
