@@ -5031,6 +5031,38 @@
       ],
       "createdAt": "2026-06-16T01:16:01",
       "updatedAt": "2026-06-16T01:16:01"
+    },
+    {
+      "id": "c2b33cec2e724f94bed5c7223bf7f078",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242110",
+        "Tên Bưu cục": "bưu cục Hữu Nghị",
+        "Họ và tên người sử dụng": "Hoàng Thị Hồng Nhung",
+        "Mã HRM": "00118045",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân bàn",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:18:08",
+      "updatedAt": "2026-06-16T01:18:08"
     }
   ]
 }
