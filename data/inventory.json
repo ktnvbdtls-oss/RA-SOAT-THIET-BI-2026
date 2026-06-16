@@ -5308,6 +5308,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T06:47:23",
       "updatedAt": "2026-06-16T06:47:23"
+    },
+    {
+      "id": "3be1819b5fce45ff94a868df1e9247e5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2443",
+        "Tên Xã": "Hữu Lũng",
+        "Mã Bưu cục": "246100",
+        "Tên Bưu cục": "Hữu Lũng",
+        "Họ và tên người sử dụng": "Hoàng Lệ Huyền",
+        "Mã HRM": "00251595",
+        "Bộ phận / Phòng ban": "Phòng kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-91SQOMC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LGZ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "350 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.38.14",
+        "MAC Address": "10:B6:76:9E:C9:98"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:20:32",
+      "updatedAt": "2026-06-16T07:20:32"
     }
   ]
 }
