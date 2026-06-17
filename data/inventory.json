@@ -5823,6 +5823,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T00:52:52",
       "updatedAt": "2026-06-17T00:52:52"
+    },
+    {
+      "id": "854599371e834f7298342fdc28c4b383",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245100",
+        "Tên Bưu cục": "Đồng Ý",
+        "Họ và tên người sử dụng": "Ma Thanh Đức",
+        "Mã HRM": "22009987",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ESNVBVA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011330P",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.91.53",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T01:05:10",
+      "updatedAt": "2026-06-17T01:05:10"
     }
   ]
 }
