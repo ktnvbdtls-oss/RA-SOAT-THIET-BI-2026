@@ -6983,6 +6983,43 @@
       ],
       "createdAt": "2026-06-17T02:35:37",
       "updatedAt": "2026-06-17T02:35:37"
+    },
+    {
+      "id": "b0645681faa34ac395a6467e36b84ea8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "kỳ lừa",
+        "Họ và tên người sử dụng": "NÔNG HỮU MẠNH",
+        "Mã HRM": "00042692",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-CLOC-GDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5N",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.34.14",
+        "MAC Address": "C0:18:03:BE:F9:0D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO M203D",
+          "serial": "VNP4D02718"
+        }
+      ],
+      "createdAt": "2026-06-17T02:40:32",
+      "updatedAt": "2026-06-17T02:40:32"
     }
   ]
 }
