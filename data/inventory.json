@@ -6092,6 +6092,48 @@
       ],
       "createdAt": "2026-06-17T01:43:30",
       "updatedAt": "2026-06-17T01:43:30"
+    },
+    {
+      "id": "df9e38391122472fae56b79ee6bcab05",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247500",
+        "Tên Bưu cục": "BƯU ĐIỆN ĐÌNH LẬP",
+        "Họ và tên người sử dụng": "HOÀNG THỊ HẰNG",
+        "Mã HRM": "00042852",
+        "Bộ phận / Phòng ban": "KHỐI SẢN XUẤT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DT03IGN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5Q",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.37.14",
+        "MAC Address": "C0:18:03:BE:FC:7E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "PHFYF01954"
+        },
+        {
+          "type": "scanner",
+          "name": "HP Scạnet pro 2500 f1",
+          "serial": "L2747A"
+        }
+      ],
+      "createdAt": "2026-06-17T01:44:28",
+      "updatedAt": "2026-06-17T01:44:28"
     }
   ]
 }
