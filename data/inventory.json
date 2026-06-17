@@ -7602,6 +7602,48 @@
       ],
       "createdAt": "2026-06-17T08:02:55",
       "updatedAt": "2026-06-17T08:02:55"
+    },
+    {
+      "id": "5d4f946c2d014944912e0bed0747ea20",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "243950",
+        "Tên Bưu cục": "BCP Văn Quan",
+        "Họ và tên người sử dụng": "Hoàng Minh Đức",
+        "Mã HRM": "00215040",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Văn Quan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8G6S33C",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2Z8D0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.42.2",
+        "MAC Address": "B8:85:84:AB:11:1D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": "17071B17BA"
+        }
+      ],
+      "createdAt": "2026-06-17T10:06:37",
+      "updatedAt": "2026-06-17T10:06:37"
     }
   ]
 }
