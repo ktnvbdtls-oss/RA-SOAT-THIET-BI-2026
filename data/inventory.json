@@ -6894,6 +6894,53 @@
       ],
       "createdAt": "2026-06-17T02:30:42",
       "updatedAt": "2026-06-17T02:30:42"
+    },
+    {
+      "id": "af1e0e911d7e4c6c9bb4896c87dd7ea6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "BƯU ĐIỆN KHU VỰC KỲ LỪA",
+        "Họ và tên người sử dụng": "MAI THỊ TRÀ",
+        "Mã HRM": "00042905",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN KHU VỰC KỲ LỪA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QMH0EUJ",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "HPXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.34.18",
+        "MAC Address": "F8:BC:12:A6:16:F7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "KHONG CÓ"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZABZA ZD620",
+          "serial": "KHÔNG CÓ"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "19226010501785"
+        }
+      ],
+      "createdAt": "2026-06-17T02:33:10",
+      "updatedAt": "2026-06-17T02:33:10"
     }
   ]
 }
