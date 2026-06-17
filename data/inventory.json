@@ -6339,6 +6339,43 @@
       ],
       "createdAt": "2026-06-17T01:53:45",
       "updatedAt": "2026-06-17T01:53:45"
+    },
+    {
+      "id": "08729b29a3514f2298c4e6674c466113",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247500",
+        "Tên Bưu cục": "Bưu điện xã Đình Lập",
+        "Họ và tên người sử dụng": "Hoàng Minh Tuân",
+        "Mã HRM": "00105239",
+        "Bộ phận / Phòng ban": "nhân viên đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DT03IGN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN72",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.37.15",
+        "MAC Address": "C0:18:03:BE:FE:1D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon3300/Canon-3300",
+          "serial": "LQHA634986"
+        }
+      ],
+      "createdAt": "2026-06-17T01:56:34",
+      "updatedAt": "2026-06-17T01:56:34"
     }
   ]
 }
