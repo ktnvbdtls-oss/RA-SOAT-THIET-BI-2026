@@ -7361,6 +7361,48 @@
       ],
       "createdAt": "2026-06-17T03:35:43",
       "updatedAt": "2026-06-17T03:35:43"
+    },
+    {
+      "id": "ef1a430f98ac49b887a91644bb019e9f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245000",
+        "Tên Bưu cục": "Bắc Sơn",
+        "Họ và tên người sử dụng": "Đào Thu Thảo",
+        "Mã HRM": "00105225",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-G3FI3KI",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN4W",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.20.43.15",
+        "MAC Address": "C0:18:03:BE:FE:61"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": "KHÔNG"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS2208-SR20007R",
+          "serial": "Z0EF3P"
+        }
+      ],
+      "createdAt": "2026-06-17T03:42:15",
+      "updatedAt": "2026-06-17T03:42:15"
     }
   ]
 }
