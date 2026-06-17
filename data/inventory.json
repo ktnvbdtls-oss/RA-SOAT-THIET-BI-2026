@@ -6668,6 +6668,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T02:04:42",
       "updatedAt": "2026-06-17T02:04:42"
+    },
+    {
+      "id": "bb92caa726e946a884805c277ea2d7eb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "243150",
+        "Tên Bưu cục": "bưu điện vhx trung thành",
+        "Họ và tên người sử dụng": "nông văn tân",
+        "Mã HRM": "00042655",
+        "Bộ phận / Phòng ban": "thất khê",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2431-TRUNGTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN6Y",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "C0:18:03:BE:FE:57"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T02:08:06",
+      "updatedAt": "2026-06-17T02:08:06"
     }
   ]
 }
