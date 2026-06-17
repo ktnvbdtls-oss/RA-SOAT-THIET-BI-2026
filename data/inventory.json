@@ -6376,6 +6376,37 @@
       ],
       "createdAt": "2026-06-17T01:56:34",
       "updatedAt": "2026-06-17T01:56:34"
+    },
+    {
+      "id": "09a60072347e4ec686ddbcb92035afd8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "243900",
+        "Tên Xã": "Văn Quan",
+        "Mã Bưu cục": "243900",
+        "Tên Bưu cục": "Văn Quan",
+        "Họ và tên người sử dụng": "Lý Mạnh Hùng",
+        "Mã HRM": "00042478",
+        "Bộ phận / Phòng ban": "Bưu điện văn quan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-SUHMPOP",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "4GB",
+        "Ổ cứng": "120GB",
+        "Hệ điều hành": "Windows 11, version 25H2",
+        "Office": "2010",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": "==================="
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T01:57:17",
+      "updatedAt": "2026-06-17T01:57:17"
     }
   ]
 }
