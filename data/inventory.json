@@ -7482,6 +7482,48 @@
       ],
       "createdAt": "2026-06-17T04:05:41",
       "updatedAt": "2026-06-17T04:05:41"
+    },
+    {
+      "id": "89e3dbc14beb4515ae3523a88a17d875",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "245020",
+        "Tên Xã": "Xa Bac Son",
+        "Mã Bưu cục": "245020",
+        "Tên Bưu cục": "Bac Quynh",
+        "Họ và tên người sử dụng": "Duong Thi Moc",
+        "Mã HRM": "00042375",
+        "Bộ phận / Phòng ban": "NV VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2450-BACQUYNH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132PN",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.91.50",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "A8",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T04:15:21",
+      "updatedAt": "2026-06-17T04:15:21"
     }
   ]
 }
