@@ -6778,6 +6778,48 @@
       ],
       "createdAt": "2026-06-17T02:26:52",
       "updatedAt": "2026-06-17T02:26:52"
+    },
+    {
+      "id": "812f4b5fbac444578d170509e63a10f8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BƯU ĐIỆN XÃ VÂN NHAM",
+        "Tên Xã": "BƯU ĐIỆN XÃ VÂN NHAM",
+        "Mã Bưu cục": "246490",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ VÂN NHAM",
+        "Họ và tên người sử dụng": "ĐÀO THỊ THU THỦY",
+        "Mã HRM": "00042717",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5Y",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.38.74",
+        "MAC Address": "C0:18:03:BE:FD:6B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Xprinter",
+          "serial": "xp-470b"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "posbank",
+          "serial": "A8"
+        }
+      ],
+      "createdAt": "2026-06-17T02:17:41",
+      "updatedAt": "2026-06-17T02:17:41"
     }
   ]
 }
