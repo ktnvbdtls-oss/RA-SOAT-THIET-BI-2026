@@ -5939,6 +5939,43 @@
       ],
       "createdAt": "2026-06-17T01:20:03",
       "updatedAt": "2026-06-17T01:20:03"
+    },
+    {
+      "id": "3720e16f44d94070b6b833afe0bb03d4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2431",
+        "Tên Bưu cục": "Tràng Định",
+        "Họ và tên người sử dụng": "Nguyễn Thu Thủy",
+        "Mã HRM": "00275706",
+        "Bộ phận / Phòng ban": "Phòng kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TRANG92",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN59",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.40.2",
+        "MAC Address": "C0:18:03:BE:FB:C2"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon",
+          "serial": "L1121E"
+        }
+      ],
+      "createdAt": "2026-06-17T01:18:49",
+      "updatedAt": "2026-06-17T01:18:49"
     }
   ]
 }
