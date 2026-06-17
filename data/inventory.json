@@ -7524,6 +7524,43 @@
       ],
       "createdAt": "2026-06-17T04:15:21",
       "updatedAt": "2026-06-17T04:15:21"
+    },
+    {
+      "id": "e1090244221a42c08deed60a25a92e1e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241909",
+        "Tên Bưu cục": "HÒA CƯ",
+        "Họ và tên người sử dụng": "HOÀNG THỊ LIM",
+        "Mã HRM": "00042529",
+        "Bộ phận / Phòng ban": "BĐ VHX HÒA CƯ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-K9RSKJ3",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "F0:2F:74:81:DA:FE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HPLASER JET PRO M203D",
+          "serial": "VNP4D00952"
+        }
+      ],
+      "createdAt": "2026-06-17T04:15:38",
+      "updatedAt": "2026-06-17T04:15:38"
     }
   ]
 }
