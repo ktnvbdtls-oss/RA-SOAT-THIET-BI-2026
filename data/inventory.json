@@ -6176,6 +6176,43 @@
       ],
       "createdAt": "2026-06-17T01:46:01",
       "updatedAt": "2026-06-17T01:46:01"
+    },
+    {
+      "id": "16bec2b79d8e4e6bab531b78a8eb0e2d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247500",
+        "Tên Bưu cục": "Đình Lập",
+        "Họ và tên người sử dụng": "Bế Thị Phương",
+        "Mã HRM": "00042855",
+        "Bộ phận / Phòng ban": "KSV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BTPPC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN54",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.37.9",
+        "MAC Address": "C0:18:03:BE:FE:62"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "lpb2900"
+        }
+      ],
+      "createdAt": "2026-06-17T01:48:54",
+      "updatedAt": "2026-06-17T01:48:54"
     }
   ]
 }
