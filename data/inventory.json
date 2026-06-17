@@ -7555,6 +7555,53 @@
       "attachments": [],
       "createdAt": "2026-06-17T04:15:41",
       "updatedAt": "2026-06-17T04:15:41"
+    },
+    {
+      "id": "a3f526139f904a8f8acc71513d992595",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245000",
+        "Tên Bưu cục": "BẮC SƠN",
+        "Họ và tên người sử dụng": "ĐÀO THU THẢO",
+        "Mã HRM": "00105225",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDBS-NGOCNT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3X861H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.43.27",
+        "MAC Address": "48:4D:7E:D7:2E:4D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA",
+          "serial": "00007ZZWW"
+        }
+      ],
+      "createdAt": "2026-06-17T08:02:55",
+      "updatedAt": "2026-06-17T08:02:55"
     }
   ]
 }
