@@ -7093,6 +7093,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T03:03:28",
       "updatedAt": "2026-06-17T03:03:28"
+    },
+    {
+      "id": "bafcc24c62e347c4a6284979373149c2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245180",
+        "Tên Bưu cục": "TÂN TRI",
+        "Họ và tên người sử dụng": "ĐỒNG THỊ NGÀ",
+        "Mã HRM": "00042384",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-OAQ793M",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132ZC",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.15",
+        "MAC Address": "38:22:E2:19:3D:6F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T03:05:11",
+      "updatedAt": "2026-06-17T03:05:11"
     }
   ]
 }
