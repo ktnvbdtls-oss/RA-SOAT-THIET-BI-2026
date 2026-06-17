@@ -5792,6 +5792,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T10:11:51",
       "updatedAt": "2026-06-16T10:11:51"
+    },
+    {
+      "id": "61b3d523048b4ee598350930bb966de3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245000",
+        "Tên Bưu cục": "Bắc Sơn",
+        "Họ và tên người sử dụng": "Nông Thị Quỳnh",
+        "Mã HRM": "00042369",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN68",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, AVG Antivirus",
+        "IP Address": "10.20.43.11",
+        "MAC Address": "C0:18:03:BE:FC:D7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T00:52:52",
+      "updatedAt": "2026-06-17T00:52:52"
     }
   ]
 }
