@@ -6741,6 +6741,43 @@
       ],
       "createdAt": "2026-06-17T02:10:01",
       "updatedAt": "2026-06-17T02:10:01"
+    },
+    {
+      "id": "3c4a621d5acf40c8a292f11763747e3d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242080",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX BẢO LÂM",
+        "Họ và tên người sử dụng": "LƯU THÚY LINH",
+        "Mã HRM": "00244120",
+        "Bộ phận / Phòng ban": "BƯU TÁ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-CLOC-BLAM",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F0:2F:74:81:DE:3A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP-LASERJET PRO M203D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T02:26:52",
+      "updatedAt": "2026-06-17T02:26:52"
     }
   ]
 }
