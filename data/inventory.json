@@ -7020,6 +7020,48 @@
       ],
       "createdAt": "2026-06-17T02:40:32",
       "updatedAt": "2026-06-17T02:40:32"
+    },
+    {
+      "id": "6956921db7e6466cb5c3362f5597bd19",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "25464",
+        "Tên Xã": "Vũ Lễ",
+        "Mã Bưu cục": "245210",
+        "Tên Bưu cục": "Chiến Thắng",
+        "Họ và tên người sử dụng": "Dương Thị Hoa",
+        "Mã HRM": "00228657",
+        "Bộ phận / Phòng ban": "bưu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-GTT40DR",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113300",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.91.54",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "LaserJet Pro M203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T02:52:42",
+      "updatedAt": "2026-06-17T02:52:42"
     }
   ]
 }
