@@ -7282,6 +7282,48 @@
       ],
       "createdAt": "2026-06-17T03:27:21",
       "updatedAt": "2026-06-17T03:27:21"
+    },
+    {
+      "id": "d6842cba49fd4d919a771d6700d12ddd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242290",
+        "Tên Bưu cục": "GIA CÁT",
+        "Họ và tên người sử dụng": "HOÀNG THỊ QUYÊN",
+        "Mã HRM": "00042515",
+        "Bộ phận / Phòng ban": "BC3 GIA CÁT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-E3N6VP7",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.91.22",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASER JETPRO M404DW",
+          "serial": "PHFYB10634"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA",
+          "serial": "20216010550685"
+        }
+      ],
+      "createdAt": "2026-06-17T03:32:04",
+      "updatedAt": "2026-06-17T03:32:04"
     }
   ]
 }
