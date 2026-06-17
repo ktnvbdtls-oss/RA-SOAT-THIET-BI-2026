@@ -5976,6 +5976,43 @@
       ],
       "createdAt": "2026-06-17T01:18:49",
       "updatedAt": "2026-06-17T01:18:49"
+    },
+    {
+      "id": "550b0e8f3509408c8e71c3a259f2a053",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2431",
+        "Tên Xã": "Thất Khê",
+        "Mã Bưu cục": "2431",
+        "Tên Bưu cục": "Tràng Định",
+        "Họ và tên người sử dụng": "Hoàng Thu Trang",
+        "Mã HRM": "00042653",
+        "Bộ phận / Phòng ban": "Phòng kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NNML6HM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B03G862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.40.20",
+        "MAC Address": "64:00:6A:01:E3:CE"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-17T01:19:11",
+      "updatedAt": "2026-06-17T01:19:11"
     }
   ]
 }
