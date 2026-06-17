@@ -6050,6 +6050,48 @@
       ],
       "createdAt": "2026-06-17T01:39:04",
       "updatedAt": "2026-06-17T01:39:04"
+    },
+    {
+      "id": "485171a398f44cf187a2f532a09e5e52",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2473",
+        "Tên Bưu cục": "Bưu điện xã Đình Lập",
+        "Họ và tên người sử dụng": "La Chí Tường",
+        "Mã HRM": "'00264120",
+        "Bộ phận / Phòng ban": "Bưu cục phát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-3PU1JF0",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.37.19",
+        "MAC Address": "40:16:7E:66:53:FB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet pro m404dw/HP-SHNGC-1800-01",
+          "serial": "PHFYF00938"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra ds22/Zebra-ds2278",
+          "serial": "18150523400486"
+        }
+      ],
+      "createdAt": "2026-06-17T01:43:30",
+      "updatedAt": "2026-06-17T01:43:30"
     }
   ]
 }
