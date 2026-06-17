@@ -6590,6 +6590,53 @@
       ],
       "createdAt": "2026-06-17T02:02:53",
       "updatedAt": "2026-06-17T02:02:53"
+    },
+    {
+      "id": "4e010b9db66b4b78a7b842dd65389a30",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247500",
+        "Tên Bưu cục": "BƯU ĐIỆN ĐÌNH LẬP",
+        "Họ và tên người sử dụng": "ĐẶNG BÍCH NGỌC",
+        "Mã HRM": "00267969",
+        "Bộ phận / Phòng ban": "KHỐI SẢN XUẤT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDDL-02",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180087",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.37.10",
+        "MAC Address": "50:AF:73:38:1D:2E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": "350C25A0301"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANNON",
+          "serial": "l11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T02:02:40",
+      "updatedAt": "2026-06-17T02:02:40"
     }
   ]
 }
