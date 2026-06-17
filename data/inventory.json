@@ -6699,6 +6699,48 @@
       "attachments": [],
       "createdAt": "2026-06-17T02:08:06",
       "updatedAt": "2026-06-17T02:08:06"
+    },
+    {
+      "id": "c98cee766c874f999a958a3a33f8f656",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "25309",
+        "Tên Xã": "Xã Quốc Khánh",
+        "Mã Bưu cục": "25310",
+        "Tên Bưu cục": "VHX Tri Phương",
+        "Họ và tên người sử dụng": "Vũ Văn Quang",
+        "Mã HRM": "00270632",
+        "Bộ phận / Phòng ban": "Trực thuộc bưu điện tỉnh Lạng Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-64KA6KV",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN6Q",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, McAfee VirusScan",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "C0:18:03:BE:FC:E8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M404-M405",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XP-80C",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T02:10:01",
+      "updatedAt": "2026-06-17T02:10:01"
     }
   ]
 }
