@@ -6407,6 +6407,43 @@
       "attachments": [],
       "createdAt": "2026-06-17T01:57:17",
       "updatedAt": "2026-06-17T01:57:17"
+    },
+    {
+      "id": "952d459ec2634c11ba338f666872e037",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "243900",
+        "Tên Xã": "Xã Văn Quan",
+        "Mã Bưu cục": "243900",
+        "Tên Bưu cục": "Văn Quan",
+        "Họ và tên người sử dụng": "Hoàng Kim Hiền",
+        "Mã HRM": "00042477",
+        "Bộ phận / Phòng ban": "Đối Soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDVQ-HIENHK",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.42.15",
+        "MAC Address": "B4:2E:99:11:2B:6D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M404-M405",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-17T01:59:38",
+      "updatedAt": "2026-06-17T01:59:38"
     }
   ]
 }
