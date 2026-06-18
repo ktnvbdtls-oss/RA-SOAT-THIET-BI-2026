@@ -8053,6 +8053,48 @@
       ],
       "createdAt": "2026-06-18T02:15:17",
       "updatedAt": "2026-06-18T02:15:17"
+    },
+    {
+      "id": "618911e451064b0aa74ddbb8e886097f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "243900",
+        "Tên Xã": "Văn Quan",
+        "Mã Bưu cục": "243900",
+        "Tên Bưu cục": "văn quan",
+        "Họ và tên người sử dụng": "Liễu Thị Ngân",
+        "Mã HRM": "00042481",
+        "Bộ phận / Phòng ban": "Bưu điện văn quan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDVQ-NGANLT",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.42.12",
+        "MAC Address": "18:C0:4D:EF:17:F0"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": "D3J183400093"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:17:51",
+      "updatedAt": "2026-06-18T02:17:51"
     }
   ]
 }
