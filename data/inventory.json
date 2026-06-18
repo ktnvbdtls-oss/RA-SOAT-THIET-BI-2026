@@ -7903,46 +7903,35 @@
       "updatedAt": "2026-06-18T01:58:36"
     },
     {
-      "id": "9107ef97bf244410a4620170cf4696a9",
+      "id": "9fe4d155fcce42f89453966cb9f3d09d",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "245440",
-        "Tên Bưu cục": "MỎ NHÀI",
-        "Họ và tên người sử dụng": "HOÀNG THỊ THÙY",
-        "Mã HRM": "00117562",
-        "Bộ phận / Phòng ban": "GĐX",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-C3MBK94",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H310M DS2 2.0",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "225 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.8",
-        "MAC Address": "B4:2E:99:45:2B:7F"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "laser jet pro m203d",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "xprinter",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-18T01:58:40",
-      "updatedAt": "2026-06-18T01:58:40"
+      "attachments": [],
+      "createdAt": "2026-06-18T01:58:42",
+      "updatedAt": "2026-06-18T01:58:42"
     }
   ]
 }
