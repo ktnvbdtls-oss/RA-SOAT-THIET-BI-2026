@@ -7712,6 +7712,43 @@
       "attachments": [],
       "createdAt": "2026-06-17T10:17:30",
       "updatedAt": "2026-06-17T10:17:30"
+    },
+    {
+      "id": "b8d677d0766046aa82f303b729a512d5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "243900",
+        "Tên Xã": "Văn Quan",
+        "Mã Bưu cục": "243900",
+        "Tên Bưu cục": "Văn Quan",
+        "Họ và tên người sử dụng": "Lý Mạnh Hùng",
+        "Mã HRM": "00042478",
+        "Bộ phận / Phòng ban": "Bưu điện văn quan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-SUHMPOP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133CX",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.20.42.11",
+        "MAC Address": "38:22:E2:18:94:45"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Pro M404dw",
+          "serial": "PHFYF00941"
+        }
+      ],
+      "createdAt": "2026-06-18T01:30:37",
+      "updatedAt": "2026-06-18T01:30:37"
     }
   ]
 }
