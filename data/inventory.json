@@ -8174,6 +8174,48 @@
       ],
       "createdAt": "2026-06-18T02:51:01",
       "updatedAt": "2026-06-18T02:51:01"
+    },
+    {
+      "id": "187a2e1f67bb48b1b2082e31e6cc7f1d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244700",
+        "Tên Bưu cục": "pac khuong",
+        "Họ và tên người sử dụng": "Hoàng Thị Hà",
+        "Mã HRM": "00225857",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2445-PACKHUONG",
+        "Loại máy": "PC",
+        "Hãng": "dell",
+        "Model": "optiplex3020",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "4GB",
+        "Ổ cứng": "500",
+        "Hệ điều hành": "7",
+        "Office": "10",
+        "Antivirus": "kas",
+        "IP Address": "10.200.91.25",
+        "MAC Address": "64-00-6A-02-16-BB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "ko co"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "BLU2505050247"
+        }
+      ],
+      "createdAt": "2026-06-18T03:15:39",
+      "updatedAt": "2026-06-18T03:15:39"
     }
   ]
 }
