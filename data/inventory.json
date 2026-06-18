@@ -8216,6 +8216,43 @@
       ],
       "createdAt": "2026-06-18T03:15:39",
       "updatedAt": "2026-06-18T03:15:39"
+    },
+    {
+      "id": "25ec7dfd089f4fc8b3c27b3822244cc4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "246936",
+        "Tên Bưu cục": "Tú Mịch",
+        "Họ và tên người sử dụng": "Nông Thị Hảo",
+        "Mã HRM": "00277806",
+        "Bộ phận / Phòng ban": "Giao dich",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-7CIJEGM",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F0:2F:74:81:DD:B5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "L23230",
+          "serial": "chua xem duoc"
+        }
+      ],
+      "createdAt": "2026-06-18T03:21:23",
+      "updatedAt": "2026-06-18T03:21:23"
     }
   ]
 }
