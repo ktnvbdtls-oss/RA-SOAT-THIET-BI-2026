@@ -8142,6 +8142,43 @@
       ],
       "createdAt": "2026-06-18T04:54:05",
       "updatedAt": "2026-06-18T04:54:05"
+    },
+    {
+      "id": "bf3b1a01cd8a49e983f0d6ec400594b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "245284",
+        "Tên Xã": "VHX NHẤT HÒA",
+        "Mã Bưu cục": "245284",
+        "Tên Bưu cục": "VHX NHẤT HÒA",
+        "Họ và tên người sử dụng": "LONG THỊ XUYẾN",
+        "Mã HRM": "00228658",
+        "Bộ phận / Phòng ban": "bcp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BS-NHATHOA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN6R",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.91.180",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro M404dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T04:56:37",
+      "updatedAt": "2026-06-18T04:56:37"
     }
   ]
 }
