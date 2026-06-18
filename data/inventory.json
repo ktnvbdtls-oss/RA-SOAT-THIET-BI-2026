@@ -8284,6 +8284,39 @@
       "attachments": [],
       "createdAt": "2026-06-18T03:24:20",
       "updatedAt": "2026-06-18T03:24:20"
+    },
+    {
+      "id": "5ead9533c3744a8487714dedb2e7742d",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244660",
+        "Tên Bưu cục": "VHX QUANG TRUNG",
+        "Họ và tên người sử dụng": "LÂM VĂN DIỆN",
+        "Mã HRM": "00042447",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "MÁY IN HP",
+        "Loại thiết bị": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T03:25:47",
+      "updatedAt": "2026-06-18T03:25:47"
     }
   ]
 }
