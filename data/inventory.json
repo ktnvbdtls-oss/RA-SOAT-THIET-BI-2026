@@ -8095,6 +8095,48 @@
       ],
       "createdAt": "2026-06-18T02:17:51",
       "updatedAt": "2026-06-18T02:17:51"
+    },
+    {
+      "id": "175f4a18cbf24614b92e77336389eb43",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245250",
+        "Tên Bưu cục": "BƯU CỤC VĂN HOÁ XÃ TÂN HƯƠNG",
+        "Họ và tên người sử dụng": "ĐINH THỊ THI",
+        "Mã HRM": "00233598",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN BƯU ĐIỆN VĂN HOÁ XÃ TÂN HƯƠNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NBL75TN",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D23",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "04:7C:16:3D:E2:48"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO M203D",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:59:07",
+      "updatedAt": "2026-06-18T02:59:07"
     }
   ]
 }
