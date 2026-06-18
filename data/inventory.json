@@ -8204,6 +8204,37 @@
       ],
       "createdAt": "2026-06-18T03:50:38",
       "updatedAt": "2026-06-18T03:50:38"
+    },
+    {
+      "id": "18ffec3f0b5d4d04a6cf5bc2caacfc40",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244550",
+        "Tên Bưu cục": "VHX TÂN VĂN",
+        "Họ và tên người sử dụng": "HOÀNG THỊ LAM",
+        "Mã HRM": "00257936",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-0J0VC8I",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.16",
+        "MAC Address": "F0:2F:74:81:D5:3E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T03:56:08",
+      "updatedAt": "2026-06-18T03:56:08"
     }
   ]
 }
