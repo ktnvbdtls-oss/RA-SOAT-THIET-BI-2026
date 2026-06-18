@@ -8279,6 +8279,43 @@
       "attachments": [],
       "createdAt": "2026-06-18T07:33:16",
       "updatedAt": "2026-06-18T07:33:16"
+    },
+    {
+      "id": "7c564113f8b8440bb6995cc5705d1da2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "246980",
+        "Tên Bưu cục": "VHX Đồng Bục",
+        "Họ và tên người sử dụng": "Vy Văn Hùng",
+        "Mã HRM": "00042817",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TIUIBH7",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "169.254.245.68",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M404dw",
+          "serial": "ko co"
+        }
+      ],
+      "createdAt": "2026-06-18T07:40:12",
+      "updatedAt": "2026-06-18T07:40:12"
     }
   ]
 }
