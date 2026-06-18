@@ -7786,6 +7786,48 @@
       ],
       "createdAt": "2026-06-18T01:38:18",
       "updatedAt": "2026-06-18T01:38:18"
+    },
+    {
+      "id": "bdc4269917a54763a58bfa02c2e43673",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245120",
+        "Tên Bưu cục": "BCP",
+        "Họ và tên người sử dụng": "LƯƠNG YẾN VY",
+        "Mã HRM": "00277743",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDBS-GD03",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2Z190T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.10240",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.43.16",
+        "MAC Address": "B8:85:84:B1:00:9A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJET PROM201DW",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "00007ZZWW"
+        }
+      ],
+      "createdAt": "2026-06-18T01:41:22",
+      "updatedAt": "2026-06-18T01:41:22"
     }
   ]
 }
