@@ -8247,6 +8247,38 @@
       ],
       "createdAt": "2026-06-18T07:31:07",
       "updatedAt": "2026-06-18T07:31:07"
+    },
+    {
+      "id": "7853111d4c2a42708681663f808c58b1",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247090",
+        "Tên Bưu cục": "thống nhất",
+        "Họ và tên người sử dụng": "hoàng thị tường",
+        "Mã HRM": "00242139",
+        "Bộ phận / Phòng ban": "bdx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân bưu kiện",
+        "Hãng sản xuất": "cas",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-11-25",
+        "Thời hạn kiểm định tiếp theo": "2026-11-25",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:33:16",
+      "updatedAt": "2026-06-18T07:33:16"
     }
   ]
 }
