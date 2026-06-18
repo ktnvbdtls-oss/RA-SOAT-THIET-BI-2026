@@ -8137,6 +8137,43 @@
       ],
       "createdAt": "2026-06-18T02:59:07",
       "updatedAt": "2026-06-18T02:59:07"
+    },
+    {
+      "id": "c6609f7521284178a31c346a95938263",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247200",
+        "Tên Bưu cục": "VHX Nam QUan",
+        "Họ và tên người sử dụng": "Sầm Thị Nhúi",
+        "Mã HRM": "00042830",
+        "Bộ phận / Phòng ban": "giao dich",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NBVH7JC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "D8:5E:D3:F7:53:90"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203dw",
+          "serial": "FHFYF00945"
+        }
+      ],
+      "createdAt": "2026-06-18T02:51:01",
+      "updatedAt": "2026-06-18T02:51:01"
     }
   ]
 }
