@@ -9169,6 +9169,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:32:36",
       "updatedAt": "2026-06-19T07:32:36"
+    },
+    {
+      "id": "e32e443255d14e7987d2b80ecb901896",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "Lạng Sơn",
+        "Mã BĐ Xã": "2477",
+        "Tên Xã": "Vạn Linh",
+        "Mã Bưu cục": "245860",
+        "Tên Bưu cục": "Vạn Linh",
+        "Họ và tên người sử dụng": "Mai Thị Xứng",
+        "Mã HRM": "00042760",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử ( khối sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T07:34:03",
+      "updatedAt": "2026-06-19T07:34:03"
     }
   ]
 }
