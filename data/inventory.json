@@ -9070,6 +9070,41 @@
       ],
       "createdAt": "2026-06-19T04:30:26",
       "updatedAt": "2026-06-19T04:30:26"
+    },
+    {
+      "id": "ca569a4f478a421da702969149d42870",
+      "category": "4C. Máy Photocopy",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241225",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Phí Trọng Thanh",
+        "Mã HRM": "00042331",
+        "Bộ phận / Phòng ban": "Tổ Chức - Hành chính",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy Photocopy",
+        "Hình thức sử dụng": "",
+        "Khổ giấy tối đa": "A3 – A6",
+        "Chức năng (In/Scan/Copy)": "Copy, In, Scan",
+        "Số Counter hiện tại\n(Số bản đã in)": "",
+        "Hãng": "Canon",
+        "Model": "iR2925i",
+        "Năm sản xuất": "2024",
+        "Serial Number": "ZBBA00021218",
+        "Kết nối": "",
+        "IP Address": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "2024",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T07:11:18",
+      "updatedAt": "2026-06-19T07:11:18"
     }
   ]
 }
