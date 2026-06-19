@@ -8379,6 +8379,37 @@
       "attachments": [],
       "createdAt": "2026-06-19T01:17:46",
       "updatedAt": "2026-06-19T01:17:46"
+    },
+    {
+      "id": "3ada3f95aa1e418cba4495584a77d542",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2407",
+        "Tên Xã": "Bình Gia - Tân Văn",
+        "Mã Bưu cục": "244500",
+        "Tên Bưu cục": "Bình Gia",
+        "Họ và tên người sử dụng": "Hứa Văn Đạm",
+        "Mã HRM": "00042458",
+        "Bộ phận / Phòng ban": "Quản lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAPTOP-8B0MMK6K",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15s-fq2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD2194YC8",
+        "CPU": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "E8:FB:1C:C3:DC:13"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T01:58:01",
+      "updatedAt": "2026-06-19T01:58:01"
     }
   ]
 }
