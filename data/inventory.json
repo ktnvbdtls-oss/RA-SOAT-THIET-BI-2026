@@ -8474,6 +8474,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:25:37",
       "updatedAt": "2026-06-19T02:25:37"
+    },
+    {
+      "id": "2ad14674eefe40228754830bada71160",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "KỲ LỪA",
+        "Họ và tên người sử dụng": "MAI THỊ TRÀ",
+        "Mã HRM": "00042905",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN KỲ LỪA",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN BÀN",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-01-11",
+        "Thời hạn kiểm định tiếp theo": "2026-01-11",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:26:04",
+      "updatedAt": "2026-06-19T02:26:04"
     }
   ]
 }
