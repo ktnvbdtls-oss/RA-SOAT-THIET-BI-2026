@@ -9969,6 +9969,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T09:30:04",
       "updatedAt": "2026-06-19T09:30:04"
+    },
+    {
+      "id": "533ecb2bdf084d67a90bf517febe8188",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242110",
+        "Tên Bưu cục": "BƯU CỤC HỮU NGHỊ",
+        "Họ và tên người sử dụng": "HOÀNG THỊ HỒNG NHUNG",
+        "Mã HRM": "00118045",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BƯU KIỆN",
+        "Hãng sản xuất": "CAS DB-II",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "60KG",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-11-01",
+        "Thời hạn kiểm định tiếp theo": "2026-11-01",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "HỎNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T09:45:29",
+      "updatedAt": "2026-06-19T09:45:29"
     }
   ]
 }
