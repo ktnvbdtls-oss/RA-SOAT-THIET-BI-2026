@@ -9297,6 +9297,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:41:28",
       "updatedAt": "2026-06-19T07:41:28"
+    },
+    {
+      "id": "5a28e31ad0034da0a7fc63a8b3983f30",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "Lạng Sơn",
+        "Mã BĐ Xã": "2455",
+        "Tên Xã": "Gia Lộc",
+        "Mã Bưu cục": "245780",
+        "Tên Bưu cục": "Gia Lộc",
+        "Họ và tên người sử dụng": "Vy Thị Thu",
+        "Mã HRM": "00258925",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử ( khối sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T07:42:39",
+      "updatedAt": "2026-06-19T07:42:39"
     }
   ]
 }
