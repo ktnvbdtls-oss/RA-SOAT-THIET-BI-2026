@@ -9937,6 +9937,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T09:28:12",
       "updatedAt": "2026-06-19T09:28:12"
+    },
+    {
+      "id": "6332417510f841e78fee153b4d4f9afe",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "247670",
+        "Tên Xã": "Thái Bình",
+        "Mã Bưu cục": "247670",
+        "Tên Bưu cục": "Lâm Ca",
+        "Họ và tên người sử dụng": "Nguyễn Thị Giang",
+        "Mã HRM": "00114373",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Qua",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bưu kiện",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "3486",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-11-28",
+        "Thời hạn kiểm định tiếp theo": "2026-11-28",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T09:30:04",
+      "updatedAt": "2026-06-19T09:30:04"
     }
   ]
 }
