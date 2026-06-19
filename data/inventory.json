@@ -8954,6 +8954,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T03:10:42",
       "updatedAt": "2026-06-19T03:10:42"
+    },
+    {
+      "id": "98809cd4d1114554bb832b6e57968921",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241900",
+        "Tên Bưu cục": "Bưu cục Đồng Đăng",
+        "Họ và tên người sử dụng": "Trần Thanh Xuân",
+        "Mã HRM": "00042616",
+        "Bộ phận / Phòng ban": "Bưu điện Đồng Đăng",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "0",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BƯU KIỆN",
+        "Hãng sản xuất": "",
+        "Model": "EXCELL",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "150kg",
+        "Serial Number": "V18100036",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-01-11",
+        "Thời hạn kiểm định tiếp theo": "2026-01-11",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T03:13:48",
+      "updatedAt": "2026-06-19T03:13:48"
     }
   ]
 }
