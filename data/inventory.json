@@ -9033,6 +9033,43 @@
       ],
       "createdAt": "2026-06-19T04:26:49",
       "updatedAt": "2026-06-19T04:26:49"
+    },
+    {
+      "id": "ed60fb7ff83f4e16be642940cb53222f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2432",
+        "Tên Xã": "lộc bình",
+        "Mã Bưu cục": "246800",
+        "Tên Bưu cục": "lộc bình",
+        "Họ và tên người sử dụng": "hoàng phương thảo",
+        "Mã HRM": "00269183",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TQ3ANIB",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZXF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.39.20",
+        "MAC Address": "64:00:6A:01:E3:C5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T04:30:26",
+      "updatedAt": "2026-06-19T04:30:26"
     }
   ]
 }
