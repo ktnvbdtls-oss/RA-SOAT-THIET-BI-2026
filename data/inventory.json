@@ -8634,6 +8634,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:30:44",
       "updatedAt": "2026-06-19T02:30:44"
+    },
+    {
+      "id": "33860526a71e419aa6c1606cf3b32db4",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245330",
+        "Tên Bưu cục": "CHIÊU VŨ",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ THUỲ",
+        "Mã HRM": "00042398",
+        "Bộ phận / Phòng ban": "CHIÊU VŨ",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:31:49",
+      "updatedAt": "2026-06-19T02:31:49"
     }
   ]
 }
