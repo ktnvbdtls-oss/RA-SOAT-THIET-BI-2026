@@ -8348,6 +8348,48 @@
       "attachments": [],
       "createdAt": "2026-06-19T00:40:12",
       "updatedAt": "2026-06-19T00:40:12"
+    },
+    {
+      "id": "e60e5651138f40f78f047e41a304df14",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244780-Thien Hoa",
+        "Tên Bưu cục": "Thien Hoa",
+        "Họ và tên người sử dụng": "Hoang Thi Ha",
+        "Mã HRM": "00251606",
+        "Bộ phận / Phòng ban": "BDVHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CO2MDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "930 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "F0:2F:74:81:DC:83"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203D",
+          "serial": "VNC6G00214"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter thu tien dien",
+          "serial": "XPT80L-BLU250324587"
+        }
+      ],
+      "createdAt": "2026-06-19T01:17:44",
+      "updatedAt": "2026-06-19T01:17:44"
     }
   ]
 }
