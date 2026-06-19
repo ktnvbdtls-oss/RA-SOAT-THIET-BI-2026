@@ -9393,6 +9393,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:45:53",
       "updatedAt": "2026-06-19T07:45:53"
+    },
+    {
+      "id": "16f6333aaf9c479c865c351749441ef6",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "Lạng Sơn",
+        "Mã BĐ Xã": "2454",
+        "Tên Xã": "Quan sơn",
+        "Mã Bưu cục": "245960",
+        "Tên Bưu cục": "Quan Sơn",
+        "Họ và tên người sử dụng": "Triệu Thị Tươi",
+        "Mã HRM": "00227112",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử ( khối sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T07:48:28",
+      "updatedAt": "2026-06-19T07:48:28"
     }
   ]
 }
