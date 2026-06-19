@@ -8890,6 +8890,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:37:13",
       "updatedAt": "2026-06-19T02:37:13"
+    },
+    {
+      "id": "3c2869e518dd41308585de3d0accf158",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "Lạng Sơn",
+        "Mã BĐ Xã": "243900",
+        "Tên Xã": "Văn Quan",
+        "Mã Bưu cục": "243900",
+        "Tên Bưu cục": "Văn Quan",
+        "Họ và tên người sử dụng": "Liễu Thị Ngân",
+        "Mã HRM": "00042481",
+        "Bộ phận / Phòng ban": "Bưu điện văn quan",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "200257513",
+        "Tên tài sản\n(Theo danh mục CCDC)": "APPROVAL NO",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "made in china",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "quầy giao dịch",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:41:19",
+      "updatedAt": "2026-06-19T02:41:19"
     }
   ]
 }
