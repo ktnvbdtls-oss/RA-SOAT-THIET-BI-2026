@@ -9521,6 +9521,37 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:52:42",
       "updatedAt": "2026-06-19T07:52:42"
+    },
+    {
+      "id": "e8387ebbd58c4d08941c0551747f5249",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244000",
+        "Tên Bưu cục": "bưu điện xã khánh khê",
+        "Họ và tên người sử dụng": "Lành Thị Bích Hiệp",
+        "Mã HRM": "000272321",
+        "Bộ phận / Phòng ban": "Bưu điện Văn Quan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "XVBYCH1FJZYLAGE",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "40:16:7E:66:53:89"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T08:12:56",
+      "updatedAt": "2026-06-19T08:12:56"
     }
   ]
 }
