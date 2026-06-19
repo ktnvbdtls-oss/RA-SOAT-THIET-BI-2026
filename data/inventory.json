@@ -9583,6 +9583,43 @@
       "attachments": [],
       "createdAt": "2026-06-19T08:19:36",
       "updatedAt": "2026-06-19T08:19:36"
+    },
+    {
+      "id": "47f100ec955f458fa3b0d8f3d37a9902",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "245330",
+        "Tên Xã": "Chiều vũ",
+        "Mã Bưu cục": "245330",
+        "Tên Bưu cục": "Bưu điện văn hóa xã chiêu vũ",
+        "Họ và tên người sử dụng": "Dương Thị thùy",
+        "Mã HRM": "245004",
+        "Bộ phận / Phòng ban": "Nhân viên thuê khoán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T08:28:49",
+      "updatedAt": "2026-06-19T08:28:49"
     }
   ]
 }
