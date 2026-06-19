@@ -8538,6 +8538,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:26:31",
       "updatedAt": "2026-06-19T02:26:31"
+    },
+    {
+      "id": "49e012bedad540bba0bd642fc6e0dc0f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245230",
+        "Tên Bưu cục": "NGẢ HAI",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ KHUYÊN",
+        "Mã HRM": "00042391",
+        "Bộ phận / Phòng ban": "NGẢ HAI",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:28:12",
+      "updatedAt": "2026-06-19T02:28:12"
     }
   ]
 }
