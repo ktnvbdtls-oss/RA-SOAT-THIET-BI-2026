@@ -8410,6 +8410,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T01:58:01",
       "updatedAt": "2026-06-19T01:58:01"
+    },
+    {
+      "id": "913fc24b71ad4c3c9e32d02ea7a3916f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245100",
+        "Tên Bưu cục": "ĐỒNG Ý",
+        "Họ và tên người sử dụng": "MA THANH ĐỨC",
+        "Mã HRM": "00229987",
+        "Bộ phận / Phòng ban": "ĐỒNG Ý",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:24:42",
+      "updatedAt": "2026-06-19T02:24:42"
     }
   ]
 }
