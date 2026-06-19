@@ -9329,6 +9329,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:42:39",
       "updatedAt": "2026-06-19T07:42:39"
+    },
+    {
+      "id": "862943d1150d4eb1aa61465820220fe2",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "Lạng Sơn",
+        "Mã BĐ Xã": "2455",
+        "Tên Xã": "BẰNG MẠC",
+        "Mã Bưu cục": "245740",
+        "Tên Bưu cục": "THƯỢNG CƯỜNG",
+        "Họ và tên người sử dụng": "VI THỊ LỰU",
+        "Mã HRM": "00042754",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử ( khối sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T07:43:35",
+      "updatedAt": "2026-06-19T07:43:35"
     }
   ]
 }
