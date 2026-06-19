@@ -9137,6 +9137,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:29:31",
       "updatedAt": "2026-06-19T07:29:31"
+    },
+    {
+      "id": "f396a0908ede4cb38eddb6a728a2b681",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "24",
+        "Tên Tỉnh": "Lạng Sơn",
+        "Mã BĐ Xã": "2477",
+        "Tên Xã": "Vạn Linh",
+        "Mã Bưu cục": "245899",
+        "Tên Bưu cục": "Y Tịch",
+        "Họ và tên người sử dụng": "Nguyễn Thị Loan",
+        "Mã HRM": "00042761",
+        "Bộ phận / Phòng ban": "Sản xuất kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử ( khối sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-12-11",
+        "Thời hạn kiểm định tiếp theo": "2026-12-11",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T07:32:36",
+      "updatedAt": "2026-06-19T07:32:36"
     }
   ]
 }
