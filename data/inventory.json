@@ -8570,6 +8570,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:28:12",
       "updatedAt": "2026-06-19T02:28:12"
+    },
+    {
+      "id": "b750d5607723427cb05c85240a0f0574",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245020",
+        "Tên Bưu cục": "BẮC QUỲNH",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ MỌC",
+        "Mã HRM": "00042375",
+        "Bộ phận / Phòng ban": "BẮC QUỲNH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:29:43",
+      "updatedAt": "2026-06-19T02:29:43"
     }
   ]
 }
