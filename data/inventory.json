@@ -9793,6 +9793,37 @@
       ],
       "createdAt": "2026-06-19T08:55:01",
       "updatedAt": "2026-06-19T08:55:01"
+    },
+    {
+      "id": "6688351799214c5184328a07ec897ed9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "244150",
+        "Tên Bưu cục": "Luong Nang",
+        "Họ và tên người sử dụng": "Lanh Thi Duyen",
+        "Mã HRM": "00277780",
+        "Bộ phận / Phòng ban": "Buu dien van quan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2439-LUONGNANG",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F0:2F:74:81:DA:B8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T09:19:06",
+      "updatedAt": "2026-06-19T09:19:06"
     }
   ]
 }
