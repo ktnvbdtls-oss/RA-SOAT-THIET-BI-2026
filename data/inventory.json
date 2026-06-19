@@ -8316,6 +8316,38 @@
       ],
       "createdAt": "2026-06-18T07:40:12",
       "updatedAt": "2026-06-18T07:40:12"
+    },
+    {
+      "id": "59be81307cfc47f69f16a5d2f6f856ad",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245000",
+        "Tên Bưu cục": "GIAO DỊCH",
+        "Họ và tên người sử dụng": "ĐÀO THU THẢO",
+        "Mã HRM": "00105225",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TƯỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "100KG",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T00:40:12",
+      "updatedAt": "2026-06-19T00:40:12"
     }
   ]
 }
