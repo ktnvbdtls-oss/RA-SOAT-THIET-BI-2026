@@ -8986,6 +8986,53 @@
       "attachments": [],
       "createdAt": "2026-06-19T03:13:48",
       "updatedAt": "2026-06-19T03:13:48"
+    },
+    {
+      "id": "ac82f812924b478fa1898aa7266b2e9c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2432",
+        "Tên Xã": "xã lộc bình",
+        "Mã Bưu cục": "246800",
+        "Tên Bưu cục": "lộc bình",
+        "Họ và tên người sử dụng": "hoàng phương thảo",
+        "Mã HRM": "00269183",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "24-BDLB-THU",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D23",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "691 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.39.11",
+        "MAC Address": "04:7C:16:3D:E2:58"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "posbank",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T04:26:49",
+      "updatedAt": "2026-06-19T04:26:49"
     }
   ]
 }
