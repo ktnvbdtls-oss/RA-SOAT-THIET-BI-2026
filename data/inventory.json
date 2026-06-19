@@ -8826,6 +8826,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:35:09",
       "updatedAt": "2026-06-19T02:35:09"
+    },
+    {
+      "id": "cfca95d9d19a4597abe36e5317a6b6ea",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "242290",
+        "Tên Bưu cục": "GIA CÁT",
+        "Họ và tên người sử dụng": "HOÀNG THỊ QUYÊN",
+        "Mã HRM": "00042515",
+        "Bộ phận / Phòng ban": "BC GIA CÁT",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN BÀN",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "210757646",
+        "Năm sản xuất": "2021",
+        "Ngày kiểm định gần nhất": "2025-01-11",
+        "Thời hạn kiểm định tiếp theo": "2026-01-11",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:37:08",
+      "updatedAt": "2026-06-19T02:37:08"
     }
   ]
 }
