@@ -10001,6 +10001,48 @@
       "attachments": [],
       "createdAt": "2026-06-19T09:45:29",
       "updatedAt": "2026-06-19T09:45:29"
+    },
+    {
+      "id": "3fc60b661eec46dabe01b74f5b02f800",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "247564",
+        "Tên Xã": "Kiên Mộc",
+        "Mã Bưu cục": "247564",
+        "Tên Bưu cục": "Bắc Xa",
+        "Họ và tên người sử dụng": "Hoàng Thị Chao",
+        "Mã HRM": "00100680",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DT03IGN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN72",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.37.15",
+        "MAC Address": "C0:18:03:BE:FE:1D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "M404dw/HP-M404dw",
+          "serial": "PHFYB10592"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter/Zhuhai-XP-T80L",
+          "serial": "XPT80L-BLU2505050248"
+        }
+      ],
+      "createdAt": "2026-06-19T09:59:29",
+      "updatedAt": "2026-06-19T09:59:29"
     }
   ]
 }
