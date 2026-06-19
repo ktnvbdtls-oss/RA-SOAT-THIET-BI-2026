@@ -9751,6 +9751,48 @@
       ],
       "createdAt": "2026-06-19T08:52:06",
       "updatedAt": "2026-06-19T08:52:06"
+    },
+    {
+      "id": "ffa77716b2fa4b6fb9aa94a292c0f574",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247660",
+        "Tên Bưu cục": "Cường Lợi",
+        "Họ và tên người sử dụng": "Đường Thị Thiết",
+        "Mã HRM": "00229011",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDDL-05",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN5M",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "C0:18:03:BE:FD:34"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900/Canon-L11121E",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER/XPRINTER-XP-T80L",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T08:55:01",
+      "updatedAt": "2026-06-19T08:55:01"
     }
   ]
 }
