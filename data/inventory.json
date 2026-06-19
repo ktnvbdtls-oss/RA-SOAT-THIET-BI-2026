@@ -9903,6 +9903,40 @@
       ],
       "createdAt": "2026-06-19T09:26:46",
       "updatedAt": "2026-06-19T09:26:46"
+    },
+    {
+      "id": "b7b92c8235ee4498b8a9838f7a80d816",
+      "category": "6. Thiết Bị Mạng",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "247670",
+        "Tên Xã": "Thái Bình",
+        "Mã Bưu cục": "247670",
+        "Tên Bưu cục": "Lâm Ca",
+        "Họ và tên người sử dụng": "Nguyễn Thị Giang",
+        "Mã HRM": "00114373",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "TP-link",
+        "Loại thiết bị mạng": "TP-link",
+        "Hãng": "TP-link",
+        "Model": "TL-SF1008d",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Cấu hình chi tiết (Số cổng/Wi-Fi...)": "",
+        "Phiên bản Firmware/OS": "",
+        "IP Quản trị": "",
+        "Vị trí lắp đặt": "",
+        "Trạng thái giám sát (Zabbix/ManageEngine...)": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T09:28:12",
+      "updatedAt": "2026-06-19T09:28:12"
     }
   ]
 }
