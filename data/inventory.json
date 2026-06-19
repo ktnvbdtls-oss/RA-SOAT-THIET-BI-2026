@@ -9824,6 +9824,48 @@
       "attachments": [],
       "createdAt": "2026-06-19T09:19:06",
       "updatedAt": "2026-06-19T09:19:06"
+    },
+    {
+      "id": "87329bd70b094054830020a8417b9c83",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "247670",
+        "Tên Bưu cục": "Lâm Ca",
+        "Họ và tên người sử dụng": "Nguyễn Thị Giang",
+        "Mã HRM": "00114373",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2475-LAMCA",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F0:2F:74:81:D5:EB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "M203/HP-M203",
+          "serial": "VNC6G00250"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER/Zhuhai-XP-T80L",
+          "serial": "XPT80L-BLU2505050242"
+        }
+      ],
+      "createdAt": "2026-06-19T09:25:53",
+      "updatedAt": "2026-06-19T09:25:53"
     }
   ]
 }
