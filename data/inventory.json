@@ -9620,6 +9620,48 @@
       ],
       "createdAt": "2026-06-19T08:28:49",
       "updatedAt": "2026-06-19T08:28:49"
+    },
+    {
+      "id": "2ea878c151a348b98708cffd17e952b1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "245230",
+        "Tên Xã": "xã vũ lễ",
+        "Mã Bưu cục": "245230",
+        "Tên Bưu cục": "bưu điện ngả hai",
+        "Họ và tên người sử dụng": "dương thị khuyên",
+        "Mã HRM": "00042391",
+        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-PDR7848",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1046 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "3C:7C:3F:26:E8:65"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser jet pro m404dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T08:30:55",
+      "updatedAt": "2026-06-19T08:30:55"
     }
   ]
 }
