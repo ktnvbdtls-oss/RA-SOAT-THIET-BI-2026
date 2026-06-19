@@ -8602,6 +8602,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:29:43",
       "updatedAt": "2026-06-19T02:29:43"
+    },
+    {
+      "id": "5cad4fc9d7cc4121923da5cae0a11c82",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245210",
+        "Tên Bưu cục": "CHIẾN THẮNG",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ HOA",
+        "Mã HRM": "00228657",
+        "Bộ phận / Phòng ban": "CHIẾN THẮNG",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:30:44",
+      "updatedAt": "2026-06-19T02:30:44"
     }
   ]
 }
