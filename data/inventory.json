@@ -8506,6 +8506,38 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:26:04",
       "updatedAt": "2026-06-19T02:26:04"
+    },
+    {
+      "id": "ed02746577b54fe983c33d182d62915e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "245440",
+        "Tên Bưu cục": "MỎ NHÀI",
+        "Họ và tên người sử dụng": "HOÀNG THỊ THUỲ",
+        "Mã HRM": "00117562",
+        "Bộ phận / Phòng ban": "MỎ NHÀI",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T02:26:31",
+      "updatedAt": "2026-06-19T02:26:31"
     }
   ]
 }
