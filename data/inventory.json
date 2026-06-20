@@ -10153,6 +10153,38 @@
       "attachments": [],
       "createdAt": "2026-06-20T09:11:15",
       "updatedAt": "2026-06-20T09:11:15"
+    },
+    {
+      "id": "551ba9f145f149afa3a9edaf05d43542",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "247740",
+        "Tên Xã": "Bưu điện xã Châu Sơn",
+        "Mã Bưu cục": "247740",
+        "Tên Bưu cục": "Bắc Lãng",
+        "Họ và tên người sử dụng": "Hoàng Thị Tâm",
+        "Mã HRM": "00264112",
+        "Bộ phận / Phòng ban": "VHX +Phát Xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bưu kiện",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30 kg",
+        "Serial Number": "210757379",
+        "Năm sản xuất": "2021",
+        "Ngày kiểm định gần nhất": "2025-11-28",
+        "Thời hạn kiểm định tiếp theo": "2026-11-28",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-20T09:13:34",
+      "updatedAt": "2026-06-20T09:13:34"
     }
   ]
 }
