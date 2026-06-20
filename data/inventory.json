@@ -10043,6 +10043,48 @@
       ],
       "createdAt": "2026-06-19T09:59:29",
       "updatedAt": "2026-06-19T09:59:29"
+    },
+    {
+      "id": "a490f674136c482c9c9cec0d17ff2e74",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "241800",
+        "Tên Bưu cục": "BCVH Cao Lộc",
+        "Họ và tên người sử dụng": "Dương Thị Oanh",
+        "Mã HRM": "00042804",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LSN-BDCLOC-06",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "30L60T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.20.34.6",
+        "MAC Address": "B8:85:84:AA:FC:82"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "KHÔNG CÓ"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "1325200500963"
+        }
+      ],
+      "createdAt": "2026-06-20T02:01:34",
+      "updatedAt": "2026-06-20T02:01:34"
     }
   ]
 }
