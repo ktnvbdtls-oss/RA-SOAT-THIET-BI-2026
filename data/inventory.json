@@ -10054,6 +10054,43 @@
       ],
       "createdAt": "2026-06-20T02:01:34",
       "updatedAt": "2026-06-20T02:01:34"
+    },
+    {
+      "id": "619128855cab47f89a9d5e399c5f6896",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "247740",
+        "Tên Xã": "Bưu điện xã Châu Sơn",
+        "Mã Bưu cục": "247740",
+        "Tên Bưu cục": "Bắc Lãng",
+        "Họ và tên người sử dụng": "Hoàng Thị Tâm",
+        "Mã HRM": "00264112",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DT03IGN",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1042 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "F0:2F:74:81:DE:BF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-20T08:46:47",
+      "updatedAt": "2026-06-20T08:46:47"
     }
   ]
 }
