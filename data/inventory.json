@@ -10185,6 +10185,40 @@
       "attachments": [],
       "createdAt": "2026-06-20T09:13:34",
       "updatedAt": "2026-06-20T09:13:34"
+    },
+    {
+      "id": "6e53807abb1b4d7d99ea73b4ac388c0a",
+      "category": "6. Thiết Bị Mạng",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "247740",
+        "Tên Xã": "Bưu điện xã Châu Sơn",
+        "Mã Bưu cục": "247740",
+        "Tên Bưu cục": "Bắc Lãng",
+        "Họ và tên người sử dụng": "Hoàng Thị Tâm",
+        "Mã HRM": "00264112",
+        "Bộ phận / Phòng ban": "VHX +Phát Xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Thiết bị mạng (Switch/Router/AP/Firewall)",
+        "Loại thiết bị mạng": "TP-link",
+        "Hãng": "TP-link",
+        "Model": "TP-link",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Cấu hình chi tiết (Số cổng/Wi-Fi...)": "",
+        "Phiên bản Firmware/OS": "",
+        "IP Quản trị": "",
+        "Vị trí lắp đặt": "",
+        "Trạng thái giám sát (Zabbix/ManageEngine...)": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-20T09:14:58",
+      "updatedAt": "2026-06-20T09:14:58"
     }
   ]
 }
