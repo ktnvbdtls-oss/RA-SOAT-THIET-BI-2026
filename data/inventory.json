@@ -10091,6 +10091,37 @@
       ],
       "createdAt": "2026-06-20T08:46:47",
       "updatedAt": "2026-06-20T08:46:47"
+    },
+    {
+      "id": "16b7c5711de94dc08dbce48874778f0a",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "247740",
+        "Tên Xã": "Bưu điện xã Châu Sơn",
+        "Mã Bưu cục": "247740",
+        "Tên Bưu cục": "Bắc Lãng",
+        "Họ và tên người sử dụng": "Hoàng Thị Tâm",
+        "Mã HRM": "00264112",
+        "Bộ phận / Phòng ban": "VHX+Phát Xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in (Khối Sản xuất)",
+        "Khổ giấy": "A4,A5",
+        "Hãng": "Canon",
+        "Model": "L11121E",
+        "Năm sản xuất": "2010",
+        "Serial Number": "RU5-8247",
+        "Kết nối": "USB",
+        "Nước sản xuất": "TRUNG QUỐC",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-20T09:09:01",
+      "updatedAt": "2026-06-20T09:09:01"
     }
   ]
 }
