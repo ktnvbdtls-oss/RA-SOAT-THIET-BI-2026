@@ -10122,6 +10122,37 @@
       "attachments": [],
       "createdAt": "2026-06-20T09:09:01",
       "updatedAt": "2026-06-20T09:09:01"
+    },
+    {
+      "id": "7365e3ed6e464e099bee4606f9d411df",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "247740",
+        "Tên Xã": "Bưu điện xã Châu Sơn",
+        "Mã Bưu cục": "247740",
+        "Tên Bưu cục": "Bắc Lãng",
+        "Họ và tên người sử dụng": "Hoàng Thị Tâm",
+        "Mã HRM": "00264112",
+        "Bộ phận / Phòng ban": "VHX +Phát Xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in mã vạch (Khối Sản xuất)",
+        "Khổ giấy": "A6",
+        "Hãng": "PosBanK",
+        "Model": "A8",
+        "Năm sản xuất": "",
+        "Serial Number": "PTAP211203269-EX_E_S/U",
+        "Kết nối": "USB",
+        "Nước sản xuất": "Hàn Quốc",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-20T09:11:15",
+      "updatedAt": "2026-06-20T09:11:15"
     }
   ]
 }
