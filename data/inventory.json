@@ -10219,6 +10219,43 @@
       "attachments": [],
       "createdAt": "2026-06-20T09:14:58",
       "updatedAt": "2026-06-20T09:14:58"
+    },
+    {
+      "id": "b721f1bef4464cf088f361e27afe66c9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện vhx Cao Minh",
+        "Mã Bưu cục": "243468",
+        "Tên Bưu cục": "Bưu Điện Xã Thất Khê",
+        "Họ và tên người sử dụng": "Triệu Thị Tuyến",
+        "Mã HRM": "00042642",
+        "Bộ phận / Phòng ban": "Bưu tá",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-22T22:53:36",
+      "updatedAt": "2026-06-22T22:53:36"
     }
   ]
 }
