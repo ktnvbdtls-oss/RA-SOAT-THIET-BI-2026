@@ -10256,6 +10256,48 @@
       ],
       "createdAt": "2026-06-22T22:53:36",
       "updatedAt": "2026-06-22T22:53:36"
+    },
+    {
+      "id": "508046f82e34422cac65d88c9457ebb2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "xã Tân Tiến",
+        "Mã Bưu cục": "243480",
+        "Tên Bưu cục": "Bưu điện xã Tân Tiến",
+        "Họ và tên người sử dụng": "Nông Hồng Phong",
+        "Mã HRM": "243900",
+        "Bộ phận / Phòng ban": "Bưu điện Thất khê",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ACMFQUO",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132TQ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "38:22:E2:18:89:15"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "POSBANK",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-23T01:08:50",
+      "updatedAt": "2026-06-23T01:08:50"
     }
   ]
 }
