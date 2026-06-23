@@ -10298,6 +10298,48 @@
       ],
       "createdAt": "2026-06-23T01:08:50",
       "updatedAt": "2026-06-23T01:08:50"
+    },
+    {
+      "id": "956f4934ab2645abb0fdebb890369e05",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "243640",
+        "Tên Bưu cục": "VHX HÙNG VIỆT",
+        "Họ và tên người sử dụng": "Đoàn Văn Đức",
+        "Mã HRM": "00042662",
+        "Bộ phận / Phòng ban": "BUU DIEN THAT KHE",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "2431-HUNGVIET",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN6S",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.91.97",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPrinter",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "hp",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-23T01:51:25",
+      "updatedAt": "2026-06-23T01:51:25"
     }
   ]
 }
