@@ -10550,6 +10550,43 @@
       ],
       "createdAt": "2026-06-23T07:25:30",
       "updatedAt": "2026-06-23T07:25:30"
+    },
+    {
+      "id": "e459c2cf0ce84a7492e90db7332945e3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "243100",
+        "Tên Bưu cục": "Tràng Định",
+        "Họ và tên người sử dụng": "Nông Thu Hường",
+        "Mã HRM": "00042648",
+        "Bộ phận / Phòng ban": "Bưu điện Thất Khê",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-JVC68TF",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN65",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.40.7",
+        "MAC Address": "C0:18:03:BE:FC:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-23T07:49:15",
+      "updatedAt": "2026-06-23T07:49:15"
     }
   ]
 }
