@@ -10620,41 +10620,35 @@
       "updatedAt": "2026-06-23T09:32:17"
     },
     {
-      "id": "a76ae817bb894962a73195680c8edcfe",
+      "id": "328c7ed049f445a8963ade4b8c7b48db",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
-        "Tên Xã": "Bưu điện vhx Cao Minh",
-        "Mã Bưu cục": "243468",
-        "Tên Bưu cục": "Bưu Điện Xã Thất Khê",
-        "Họ và tên người sử dụng": "Triệu Thị Tuyến",
-        "Mã HRM": "00042642",
-        "Bộ phận / Phòng ban": "Bưu tá",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-JQB9VME",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP 280 Pro G6 Microtower PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "4CE223BN6K",
-        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "238 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender",
-        "IP Address": "192.168.1.4",
-        "MAC Address": "C0:18:03:BE:FB:35"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-23T12:26:45",
-      "updatedAt": "2026-06-23T12:26:45"
+      "attachments": [],
+      "createdAt": "2026-06-23T12:26:47",
+      "updatedAt": "2026-06-23T12:26:47"
     }
   ]
 }
