@@ -10587,6 +10587,37 @@
       ],
       "createdAt": "2026-06-23T07:49:15",
       "updatedAt": "2026-06-23T07:49:15"
+    },
+    {
+      "id": "0db2e235baca47bc8211931f4eb7c256",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "243610",
+        "Tên Xã": "Hùng Sơn cũ( nay là Xã Tràng Định)",
+        "Mã Bưu cục": "243100",
+        "Tên Bưu cục": "Bưu Điện VHX Hùng Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Tuấn Linh",
+        "Mã HRM": "00112597",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8EU41EH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "2022",
+        "Serial Number": "4CE223BN6H",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "C0:18:03:BE:FB:41"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-23T09:32:17",
+      "updatedAt": "2026-06-23T09:32:17"
     }
   ]
 }
