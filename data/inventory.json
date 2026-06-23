@@ -10508,6 +10508,48 @@
       ],
       "createdAt": "2026-06-23T07:25:07",
       "updatedAt": "2026-06-23T07:25:07"
+    },
+    {
+      "id": "5d1de2fd6a734209a1ef370aaa2cd5e2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện Thất Khê",
+        "Mã Bưu cục": "243100",
+        "Tên Bưu cục": "Giao dịch Tràng Định",
+        "Họ và tên người sử dụng": "Lương Thanh Thuần",
+        "Mã HRM": "00042651",
+        "Bộ phận / Phòng ban": "Giao dịch Tràng Định",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-89D8A78",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181211",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.40.24",
+        "MAC Address": "50:AF:73:38:20:BD"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter XP-T80U",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra Ds22-08",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-23T07:25:30",
+      "updatedAt": "2026-06-23T07:25:30"
     }
   ]
 }
