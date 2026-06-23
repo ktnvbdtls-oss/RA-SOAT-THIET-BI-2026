@@ -10340,6 +10340,53 @@
       ],
       "createdAt": "2026-06-23T01:51:25",
       "updatedAt": "2026-06-23T01:51:25"
+    },
+    {
+      "id": "0ud3fg7345c000000000000000000000",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "243100",
+        "Tên Bưu cục": "Tràng Định",
+        "Họ và tên người sử dụng": "Hoàng Thu Trang",
+        "Mã HRM": "00042653",
+        "Bộ phận / Phòng ban": "Tổ  giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAY1-GDTRANGDIN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE223BN6Z",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.20.40.17",
+        "MAC Address": "C0:18:03:BE:FC:DE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        },
+        {
+          "type": "photocopier",
+          "name": "Canon",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS2208",
+          "serial": "SR20007R"
+        }
+      ],
+      "createdAt": "2026-06-23T04:28:30",
+      "updatedAt": "2026-06-23T04:28:30"
     }
   ]
 }
